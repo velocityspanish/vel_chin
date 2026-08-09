@@ -15449,7 +15449,37 @@
       "chinese": "来个新词, 别紧张, 先说出来",
       "category": "Joy",
       "generated_at": "2026-08-09T13:40:52.305641"
+    },
+    {
+      "english": "Be brave, say it out loud, I’m here",
+      "chinese": "勇敢一点, 你就说出来, 我在这儿",
+      "category": "Courage",
+      "generated_at": "2026-08-09T16:28:18.552187"
+    },
+    {
+      "english": "Try again, even if it’s messy",
+      "chinese": "再试一次, 就算有点乱也行",
+      "category": "Courage",
+      "generated_at": "2026-08-09T16:28:18.552194"
+    },
+    {
+      "english": "Make a mistake, then keep going, wow",
+      "chinese": "说错没关系, 再继续, 太棒了",
+      "category": "Courage",
+      "generated_at": "2026-08-09T16:28:18.552195"
+    },
+    {
+      "english": "Speak slowly, you can do it, go",
+      "chinese": "慢慢说, 你可以的, 开始吧",
+      "category": "Courage",
+      "generated_at": "2026-08-09T16:28:18.552195"
+    },
+    {
+      "english": "Ask “how do I say this,” brave",
+      "chinese": "问一句, 这句话怎么说, 真勇敢",
+      "category": "Courage",
+      "generated_at": "2026-08-09T16:28:18.552196"
     }
   ],
-  "last_updated": "2026-08-09T13:40:52.305642"
+  "last_updated": "2026-08-09T16:28:18.552197"
 }
