@@ -15689,7 +15689,37 @@
       "chinese": "今天敢尝试, 明天敢开口",
       "category": "Confidence",
       "generated_at": "2026-08-10T22:47:16.756328"
+    },
+    {
+      "english": "Good morning, say it today, feel proud",
+      "chinese": "早上好，今天说，心里很自豪",
+      "category": "Joy",
+      "generated_at": "2026-08-11T03:06:42.973301"
+    },
+    {
+      "english": "Thank you, smile, you just made progress",
+      "chinese": "谢谢你，微笑一下，就在进步",
+      "category": "Joy",
+      "generated_at": "2026-08-11T03:06:42.973314"
+    },
+    {
+      "english": "I can do it, one step, right now",
+      "chinese": "我可以，一步一步，现在就行",
+      "category": "Joy",
+      "generated_at": "2026-08-11T03:06:42.973315"
+    },
+    {
+      "english": "Where is it, ask kindly, learn faster",
+      "chinese": "在那儿吗，问得礼貌，学得更快",
+      "category": "Joy",
+      "generated_at": "2026-08-11T03:06:42.973317"
+    },
+    {
+      "english": "Slow down, clear words, you’ll understand",
+      "chinese": "慢一点，说清楚，你就懂了",
+      "category": "Joy",
+      "generated_at": "2026-08-11T03:06:42.973318"
     }
   ],
-  "last_updated": "2026-08-10T22:47:16.756330"
+  "last_updated": "2026-08-11T03:06:42.973319"
 }
