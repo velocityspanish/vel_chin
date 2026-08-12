@@ -15959,7 +15959,37 @@
       "chinese": "用短词就行, 先说出来",
       "category": "Strength",
       "generated_at": "2026-08-12T19:54:41.869359"
+    },
+    {
+      "english": "Joy is, niào shì, not nǎo sǐ, okay",
+      "chinese": "加油是, 你要说, 不是脑死, 好吗",
+      "category": "Joy",
+      "generated_at": "2026-08-12T22:51:08.066713"
+    },
+    {
+      "english": "Don’t say, wo yao, say wǒ yào, clear",
+      "chinese": "别说我 要, 说我 yào, 更清楚",
+      "category": "Joy",
+      "generated_at": "2026-08-12T22:51:08.066726"
+    },
+    {
+      "english": "Smile now, say qǐng wèn, not qíng wèn",
+      "chinese": "笑一笑, 说请问, 别说请问错",
+      "category": "Joy",
+      "generated_at": "2026-08-12T22:51:08.066728"
+    },
+    {
+      "english": "For ‘I like’, say wǒ xǐhuān, not wǒ xǐ hàn",
+      "chinese": "喜欢说我喜欢, 别说我喜喊",
+      "category": "Joy",
+      "generated_at": "2026-08-12T22:51:08.066729"
+    },
+    {
+      "english": "Coffee, say kāfēi, not kěfēi, remember",
+      "chinese": "咖啡说咖啡, 别说客飞",
+      "category": "Joy",
+      "generated_at": "2026-08-12T22:51:08.066731"
     }
   ],
-  "last_updated": "2026-08-12T19:54:41.869361"
+  "last_updated": "2026-08-12T22:51:08.066732"
 }
