@@ -16109,7 +16109,37 @@
       "chinese": "我得到帮助, 学着说 感谢",
       "category": "Gratitude",
       "generated_at": "2026-08-13T19:49:30.614312"
+    },
+    {
+      "english": "You say “我也”, not “我吗”, smile",
+      "chinese": "你说“我也”，不是“我吗”，笑一下",
+      "category": "Joy",
+      "generated_at": "2026-08-13T22:52:30.855969"
+    },
+    {
+      "english": "Don’t say “where”, say “nǎlǐ”, relax",
+      "chinese": "别说“where”，说“nǎlǐ”，放松点",
+      "category": "Joy",
+      "generated_at": "2026-08-13T22:52:30.855980"
+    },
+    {
+      "english": "Not “你吃什么吗”, say “你吃什么”, easy",
+      "chinese": "不是“你吃什么吗”，说“你吃什么”，简单点",
+      "category": "Joy",
+      "generated_at": "2026-08-13T22:52:30.855982"
+    },
+    {
+      "english": "Remember “吗” at the end, breathe, try",
+      "chinese": "记得“吗”在句末，呼吸一下，再试",
+      "category": "Joy",
+      "generated_at": "2026-08-13T22:52:30.855983"
+    },
+    {
+      "english": "Say “谢谢” first, don’t rush, you got it",
+      "chinese": "先说“谢谢”，别着急，你做得到",
+      "category": "Joy",
+      "generated_at": "2026-08-13T22:52:30.855984"
     }
   ],
-  "last_updated": "2026-08-13T19:49:30.614314"
+  "last_updated": "2026-08-13T22:52:30.855986"
 }
