@@ -16199,7 +16199,37 @@
       "chinese": "表情温和，声音稳，慢慢说",
       "category": "Mindfulness",
       "generated_at": "2026-08-14T14:08:06.252523"
+    },
+    {
+      "english": "Balance your breath, speak one word",
+      "chinese": "先慢呼气，再说一个词",
+      "category": "Balance",
+      "generated_at": "2026-08-14T16:49:21.156420"
+    },
+    {
+      "english": "Pause, relax your jaw, say it clean",
+      "chinese": "停一下，放松下巴，说得清楚",
+      "category": "Balance",
+      "generated_at": "2026-08-14T16:49:21.156432"
+    },
+    {
+      "english": "Balance tones, hold steady, don’t rush",
+      "chinese": "调子要稳，别赶，慢慢说",
+      "category": "Balance",
+      "generated_at": "2026-08-14T16:49:21.156434"
+    },
+    {
+      "english": "Little by little, match the beat",
+      "chinese": "一步一步，跟上节奏",
+      "category": "Balance",
+      "generated_at": "2026-08-14T16:49:21.156435"
+    },
+    {
+      "english": "Even volume, calm heart, clearer Chinese",
+      "chinese": "声音要平，心要稳，中文更清晰",
+      "category": "Balance",
+      "generated_at": "2026-08-14T16:49:21.156437"
     }
   ],
-  "last_updated": "2026-08-14T14:08:06.252525"
+  "last_updated": "2026-08-14T16:49:21.156439"
 }
