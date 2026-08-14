@@ -16229,7 +16229,37 @@
       "chinese": "声音要平，心要稳，中文更清晰",
       "category": "Balance",
       "generated_at": "2026-08-14T16:49:21.156437"
+    },
+    {
+      "english": "In Mandarin, ask with “吗”, not rising pitch.",
+      "chinese": "普通问句用“吗”, 不靠升调。",
+      "category": "Balance",
+      "generated_at": "2026-08-14T19:40:45.310622"
+    },
+    {
+      "english": "Say two words, pause, then one answer.",
+      "chinese": "两句一停, 再说答案。",
+      "category": "Balance",
+      "generated_at": "2026-08-14T19:40:45.310634"
+    },
+    {
+      "english": "Tone changes, same sound, totally different meaning.",
+      "chinese": "同一个音, 不同声调, 意思不同。",
+      "category": "Balance",
+      "generated_at": "2026-08-14T19:40:45.310636"
+    },
+    {
+      "english": "Short words feel stronger, slow words feel awkward.",
+      "chinese": "短词更有力, 慢说反而别扭。",
+      "category": "Balance",
+      "generated_at": "2026-08-14T19:40:45.310638"
+    },
+    {
+      "english": "Listen first, then speak, don’t force it.",
+      "chinese": "先听再说, 别硬来。",
+      "category": "Balance",
+      "generated_at": "2026-08-14T19:40:45.310639"
     }
   ],
-  "last_updated": "2026-08-14T16:49:21.156439"
+  "last_updated": "2026-08-14T19:40:45.310641"
 }
