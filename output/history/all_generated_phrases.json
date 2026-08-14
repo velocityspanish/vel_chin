@@ -16259,7 +16259,37 @@
       "chinese": "先听再说, 别硬来。",
       "category": "Balance",
       "generated_at": "2026-08-14T19:40:45.310639"
+    },
+    {
+      "english": "Order once, learn the key words, repeat",
+      "chinese": "点一次菜，记关键词，再重复",
+      "category": "Strength",
+      "generated_at": "2026-08-14T22:31:33.578962"
+    },
+    {
+      "english": "Arrive calm, greet first, smile lightly",
+      "chinese": "到达先冷静，先打招呼，轻轻微笑",
+      "category": "Strength",
+      "generated_at": "2026-08-14T22:31:33.578974"
+    },
+    {
+      "english": "Before you speak, breathe once, then go",
+      "chinese": "开口前先深呼吸，一下再说",
+      "category": "Strength",
+      "generated_at": "2026-08-14T22:31:33.578976"
+    },
+    {
+      "english": "Point and ask, one sentence, done",
+      "chinese": "指一指问，一句话就行",
+      "category": "Strength",
+      "generated_at": "2026-08-14T22:31:33.578977"
+    },
+    {
+      "english": "Use simple yes, then explain with basics",
+      "chinese": "先用简单的“是”，再用基础说明",
+      "category": "Strength",
+      "generated_at": "2026-08-14T22:31:33.578979"
     }
   ],
-  "last_updated": "2026-08-14T19:40:45.310641"
+  "last_updated": "2026-08-14T22:31:33.578980"
 }
