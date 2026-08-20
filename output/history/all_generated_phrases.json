@@ -17009,7 +17009,37 @@
       "chinese": "谢谢你,我明天就用",
       "category": "Gratitude",
       "generated_at": "2026-08-20T02:19:43.400869"
+    },
+    {
+      "english": "Hold the door, strangers remember your kindness",
+      "chinese": "扶住门, 路人都记得你的善意",
+      "category": "Kindness",
+      "generated_at": "2026-08-20T13:38:05.380223"
+    },
+    {
+      "english": "Offer your seat, even small help matters",
+      "chinese": "把座位让给别人, 小忙也很重要",
+      "category": "Kindness",
+      "generated_at": "2026-08-20T13:38:05.380232"
+    },
+    {
+      "english": "Say please, it costs nothing, warms hearts",
+      "chinese": "说请, 不花钱, 心会更暖",
+      "category": "Kindness",
+      "generated_at": "2026-08-20T13:38:05.380233"
+    },
+    {
+      "english": "Compliment their work, effort deserves respect",
+      "chinese": "夸夸他们的工作, 努力值得尊重",
+      "category": "Kindness",
+      "generated_at": "2026-08-20T13:38:05.380235"
+    },
+    {
+      "english": "Return the lost item, you create trust",
+      "chinese": "捡到就还掉, 你就有了信任",
+      "category": "Kindness",
+      "generated_at": "2026-08-20T13:38:05.380236"
     }
   ],
-  "last_updated": "2026-08-20T02:19:43.400870"
+  "last_updated": "2026-08-20T13:38:05.380237"
 }
