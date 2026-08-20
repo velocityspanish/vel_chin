@@ -16979,7 +16979,37 @@
       "chinese": "用日常词汇，你记得更快。",
       "category": "Success",
       "generated_at": "2026-08-19T22:32:44.643512"
+    },
+    {
+      "english": "Thank you, really helps, I appreciate it",
+      "chinese": "谢谢你,真的帮到我,我很感谢",
+      "category": "Gratitude",
+      "generated_at": "2026-08-20T02:19:43.400855"
+    },
+    {
+      "english": "Thanks for your patience, I’m learning step by step",
+      "chinese": "谢谢你的耐心,我在一步一步学",
+      "category": "Gratitude",
+      "generated_at": "2026-08-20T02:19:43.400864"
+    },
+    {
+      "english": "I’m grateful, you corrected me, thank you",
+      "chinese": "我很感激,你帮我改错了,谢谢",
+      "category": "Gratitude",
+      "generated_at": "2026-08-20T02:19:43.400866"
+    },
+    {
+      "english": "Thanks for the example, it makes sense now",
+      "chinese": "谢谢你的例子,我现在懂了",
+      "category": "Gratitude",
+      "generated_at": "2026-08-20T02:19:43.400868"
+    },
+    {
+      "english": "Thank you, I’ll use this tomorrow",
+      "chinese": "谢谢你,我明天就用",
+      "category": "Gratitude",
+      "generated_at": "2026-08-20T02:19:43.400869"
     }
   ],
-  "last_updated": "2026-08-19T22:32:44.643514"
+  "last_updated": "2026-08-20T02:19:43.400870"
 }
