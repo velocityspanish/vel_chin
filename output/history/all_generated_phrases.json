@@ -17279,7 +17279,37 @@
       "chinese": "说得真一点, 简单就很好",
       "category": "Confidence",
       "generated_at": "2026-08-21T22:32:26.941844"
+    },
+    {
+      "english": "You said “me too,” say “yě yǒu,” try again",
+      "chinese": "你说“我也是”，改成“也有”，再来一次",
+      "category": "Creativity",
+      "generated_at": "2026-08-22T02:17:37.240709"
+    },
+    {
+      "english": "Don’t rush, use “jiù” softly, then continue",
+      "chinese": "别着急，用“就”先轻点，再继续",
+      "category": "Creativity",
+      "generated_at": "2026-08-22T02:17:37.240720"
+    },
+    {
+      "english": "Wrong order, say noun first, then verb",
+      "chinese": "顺序错了，先说名词，再说动词",
+      "category": "Creativity",
+      "generated_at": "2026-08-22T02:17:37.240721"
+    },
+    {
+      "english": "Tiny change, add “de,” listen and repeat",
+      "chinese": "小改一下，加“的”，听一听再说",
+      "category": "Creativity",
+      "generated_at": "2026-08-22T02:17:37.240722"
+    },
+    {
+      "english": "Your “ni” is sharp, make it “nín,” please",
+      "chinese": "你“ni”太冲，改成“nín”，请再说一遍",
+      "category": "Creativity",
+      "generated_at": "2026-08-22T02:17:37.240724"
     }
   ],
-  "last_updated": "2026-08-21T22:32:26.941846"
+  "last_updated": "2026-08-22T02:17:37.240728"
 }
