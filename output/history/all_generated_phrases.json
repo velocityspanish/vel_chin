@@ -17339,7 +17339,37 @@
       "chinese": "抓住节奏，中文更顺口",
       "category": "Wisdom",
       "generated_at": "2026-08-22T10:47:06.834868"
+    },
+    {
+      "english": "Show your idea, then say it again",
+      "chinese": "先说想法，再说一遍",
+      "category": "Creativity",
+      "generated_at": "2026-08-22T13:23:55.726212"
+    },
+    {
+      "english": "Don’t guess, try a simpler sentence",
+      "chinese": "别猜了，说简单句",
+      "category": "Creativity",
+      "generated_at": "2026-08-22T13:23:55.726222"
+    },
+    {
+      "english": "Say it first, correct it later",
+      "chinese": "先说出来，再改正",
+      "category": "Creativity",
+      "generated_at": "2026-08-22T13:23:55.726224"
+    },
+    {
+      "english": "Change one word, keep the rest",
+      "chinese": "换一个词，其他不变",
+      "category": "Creativity",
+      "generated_at": "2026-08-22T13:23:55.726225"
+    },
+    {
+      "english": "Think in chunks, not in long lines",
+      "chinese": "分段想，不要一整句",
+      "category": "Creativity",
+      "generated_at": "2026-08-22T13:23:55.726226"
     }
   ],
-  "last_updated": "2026-08-22T10:47:06.834870"
+  "last_updated": "2026-08-22T13:23:55.726228"
 }
