@@ -17609,7 +17609,37 @@
       "chinese": "你的口音很可爱, 别停, 继续说",
       "category": "Positive Life",
       "generated_at": "2026-08-23T22:30:17.473517"
+    },
+    {
+      "english": "Word order matters, don’t translate word by word",
+      "chinese": "词序很重要，别逐词翻译",
+      "category": "Purpose",
+      "generated_at": "2026-08-24T02:24:43.379539"
+    },
+    {
+      "english": "Say it short, no extra please",
+      "chinese": "说短一点，别加太多“请”",
+      "category": "Purpose",
+      "generated_at": "2026-08-24T02:24:43.379548"
+    },
+    {
+      "english": "Tones matter, don’t skip the tone",
+      "chinese": "声调很重要，别把声调丢了",
+      "category": "Purpose",
+      "generated_at": "2026-08-24T02:24:43.379550"
+    },
+    {
+      "english": "Before you ask, start with “could”",
+      "chinese": "先开口，先用“可以吗”",
+      "category": "Purpose",
+      "generated_at": "2026-08-24T02:24:43.379551"
+    },
+    {
+      "english": "Don’t say “very” too much, keep it simple",
+      "chinese": "“很”别用太多，简单就好",
+      "category": "Purpose",
+      "generated_at": "2026-08-24T02:24:43.379552"
     }
   ],
-  "last_updated": "2026-08-23T22:30:17.473518"
+  "last_updated": "2026-08-24T02:24:43.379554"
 }
