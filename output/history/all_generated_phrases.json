@@ -18209,7 +18209,37 @@
       "chinese": "你怀疑的时候, 深呼吸, 再说一次",
       "category": "Hope",
       "generated_at": "2026-08-28T06:04:45.315839"
+    },
+    {
+      "english": "Your tongue has modes, try one word.",
+      "chinese": "你的舌头有模式, 先说一个词",
+      "category": "Strength",
+      "generated_at": "2026-08-28T12:37:41.684704"
+    },
+    {
+      "english": "Chinese tones are music, your meaning follows.",
+      "chinese": "汉语有声调, 意思跟着走",
+      "category": "Strength",
+      "generated_at": "2026-08-28T12:37:41.684717"
+    },
+    {
+      "english": "One pause in Chinese, can change everything.",
+      "chinese": "中文停一下, 意思就变了",
+      "category": "Strength",
+      "generated_at": "2026-08-28T12:37:41.684720"
+    },
+    {
+      "english": "Mark the syllables, your listening will pop.",
+      "chinese": "给每个音节标记, 你听得更清楚",
+      "category": "Strength",
+      "generated_at": "2026-08-28T12:37:41.684721"
+    },
+    {
+      "english": "Practice with questions, your mouth learns fast.",
+      "chinese": "多练问句, 嘴巴学得快",
+      "category": "Strength",
+      "generated_at": "2026-08-28T12:37:41.684723"
     }
   ],
-  "last_updated": "2026-08-28T06:04:45.315841"
+  "last_updated": "2026-08-28T12:37:41.684725"
 }
