@@ -18239,7 +18239,37 @@
       "chinese": "多练问句, 嘴巴学得快",
       "category": "Strength",
       "generated_at": "2026-08-28T12:37:41.684723"
+    },
+    {
+      "english": "Land softly, say hello, then ask",
+      "chinese": "先轻轻开口, 先打招呼, 再问",
+      "category": "Purpose",
+      "generated_at": "2026-08-28T22:47:30.451697"
+    },
+    {
+      "english": "Travel smart, learn greetings, save time",
+      "chinese": "旅行省事, 学问候, 少走弯路",
+      "category": "Purpose",
+      "generated_at": "2026-08-28T22:47:30.451709"
+    },
+    {
+      "english": "Point to it, say this, please",
+      "chinese": "指一下, 说这个, 请给我",
+      "category": "Purpose",
+      "generated_at": "2026-08-28T22:47:30.451710"
+    },
+    {
+      "english": "Order like a local, simple words only",
+      "chinese": "点单像当地人, 词简单就好",
+      "category": "Purpose",
+      "generated_at": "2026-08-28T22:47:30.451711"
+    },
+    {
+      "english": "Ask for help, slow down, be clear",
+      "chinese": "求助别怕, 慢一点, 说清楚",
+      "category": "Purpose",
+      "generated_at": "2026-08-28T22:47:30.451711"
     }
   ],
-  "last_updated": "2026-08-28T12:37:41.684725"
+  "last_updated": "2026-08-28T22:47:30.451713"
 }
