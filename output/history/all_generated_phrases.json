@@ -18179,7 +18179,37 @@
       "chinese": "抓住声调, 感觉意思, 别停。",
       "category": "Strength",
       "generated_at": "2026-08-28T02:23:09.164668"
+    },
+    {
+      "english": "Hope feels warm, say it with a smile",
+      "chinese": "希望很温暖, 说的时候带微笑",
+      "category": "Hope",
+      "generated_at": "2026-08-28T06:04:45.315825"
+    },
+    {
+      "english": "Keep going, even slow Chinese is still progress",
+      "chinese": "别停, 慢慢说也算进步",
+      "category": "Hope",
+      "generated_at": "2026-08-28T06:04:45.315836"
+    },
+    {
+      "english": "Mistakes are normal, correct gently, move on",
+      "chinese": "错了很正常, 轻轻改, 再继续",
+      "category": "Hope",
+      "generated_at": "2026-08-28T06:04:45.315837"
+    },
+    {
+      "english": "Hope starts with one sentence, right now",
+      "chinese": "希望从一句开始, 就现在",
+      "category": "Hope",
+      "generated_at": "2026-08-28T06:04:45.315838"
+    },
+    {
+      "english": "When you doubt, breathe, then say again",
+      "chinese": "你怀疑的时候, 深呼吸, 再说一次",
+      "category": "Hope",
+      "generated_at": "2026-08-28T06:04:45.315839"
     }
   ],
-  "last_updated": "2026-08-28T02:23:09.164669"
+  "last_updated": "2026-08-28T06:04:45.315841"
 }
