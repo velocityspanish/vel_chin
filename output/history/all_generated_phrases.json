@@ -18539,7 +18539,37 @@
       "chinese": "别怕这个发音, 先慢慢练。",
       "category": "Confidence",
       "generated_at": "2026-08-30T06:23:27.497692"
+    },
+    {
+      "english": "Thanks a lot, I really appreciate your help",
+      "chinese": "谢谢你啦, 我真的很感谢你",
+      "category": "Gratitude",
+      "generated_at": "2026-08-30T17:03:31.055066"
+    },
+    {
+      "english": "Thank you, you made my day brighter",
+      "chinese": "谢谢你, 你让我的心情更好",
+      "category": "Gratitude",
+      "generated_at": "2026-08-30T17:03:31.055080"
+    },
+    {
+      "english": "Thanks for waiting, I’ll be right back",
+      "chinese": "谢谢你等我, 我马上回来",
+      "category": "Gratitude",
+      "generated_at": "2026-08-30T17:03:31.055082"
+    },
+    {
+      "english": "Really thank you, you explained it clearly",
+      "chinese": "真的谢谢你, 你讲得很清楚",
+      "category": "Gratitude",
+      "generated_at": "2026-08-30T17:03:31.055084"
+    },
+    {
+      "english": "Thanks, I got it now, you’re great",
+      "chinese": "谢谢你, 我懂了, 你太厉害",
+      "category": "Gratitude",
+      "generated_at": "2026-08-30T17:03:31.055085"
     }
   ],
-  "last_updated": "2026-08-30T06:23:27.497694"
+  "last_updated": "2026-08-30T17:03:31.055087"
 }
