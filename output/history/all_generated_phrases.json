@@ -18599,7 +18599,37 @@
       "chinese": "再说一遍, 自信的你很迷人",
       "category": "Perseverance",
       "generated_at": "2026-08-30T19:00:15.266661"
+    },
+    {
+      "english": "It’s okay, let it go, breathe out.",
+      "chinese": "没关系, 放下它, 呼出气.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-30T21:42:33.222822"
+    },
+    {
+      "english": "Mistakes happen, forgive me, we continue.",
+      "chinese": "会出错, 原谅我, 我们继续.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-30T21:42:33.222835"
+    },
+    {
+      "english": "You meant well, I forgive you, okay?",
+      "chinese": "你是好意, 我原谅你, 行吗？",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-30T21:42:33.222837"
+    },
+    {
+      "english": "Forget it, buddy, we’re still friends.",
+      "chinese": "算了吧, 朋友, 我们还是朋友.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-30T21:42:33.222838"
+    },
+    {
+      "english": "I’m not mad, sorry, let it pass.",
+      "chinese": "我不生气, 对不起, 就过去吧.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-30T21:42:33.222839"
     }
   ],
-  "last_updated": "2026-08-30T19:00:15.266663"
+  "last_updated": "2026-08-30T21:42:33.222840"
 }
