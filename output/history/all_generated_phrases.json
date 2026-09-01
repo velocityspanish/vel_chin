@@ -18899,7 +18899,37 @@
       "chinese": "我做你的助手，练习中文，好吗",
       "category": "Purpose",
       "generated_at": "2026-09-01T19:09:27.957337"
+    },
+    {
+      "english": "Start simple, practice daily, you’ll improve fast",
+      "chinese": "从简单开始, 每天练习, 进步很快",
+      "category": "Growth",
+      "generated_at": "2026-09-01T21:29:03.238901"
+    },
+    {
+      "english": "Listen first, copy the sounds, build confidence",
+      "chinese": "先听再学, 跟着读, 更有信心",
+      "category": "Growth",
+      "generated_at": "2026-09-01T21:29:03.238912"
+    },
+    {
+      "english": "Keep going, even slow progress counts",
+      "chinese": "别停下来, 慢慢进步也算",
+      "category": "Growth",
+      "generated_at": "2026-09-01T21:29:03.238914"
+    },
+    {
+      "english": "Speak small, get feedback, stay brave",
+      "chinese": "先说一点, 听建议, 坚持勇敢",
+      "category": "Growth",
+      "generated_at": "2026-09-01T21:29:03.238915"
+    },
+    {
+      "english": "Say it again, same meaning, new try",
+      "chinese": "再说一遍, 意思一样, 再试一次",
+      "category": "Growth",
+      "generated_at": "2026-09-01T21:29:03.238917"
     }
   ],
-  "last_updated": "2026-09-01T19:09:27.957342"
+  "last_updated": "2026-09-01T21:29:03.238919"
 }
