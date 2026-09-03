@@ -19199,7 +19199,37 @@
       "chinese": "今天只学一个词, 用了再说",
       "category": "Strength",
       "generated_at": "2026-09-03T19:02:37.621992"
+    },
+    {
+      "english": "Sorry first, then we can start again",
+      "chinese": "先道歉, 然后我们再开始",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-03T21:27:53.359049"
+    },
+    {
+      "english": "I forgive you, we don’t hold grudges",
+      "chinese": "我原谅你, 我们不记仇",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-03T21:27:53.359061"
+    },
+    {
+      "english": "It’s okay, you learn, I forgive",
+      "chinese": "没关系, 你会学会, 我原谅你",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-03T21:27:53.359062"
+    },
+    {
+      "english": "I understand, we reset, no anger",
+      "chinese": "我懂了, 我们重来, 别生气",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-03T21:27:53.359064"
+    },
+    {
+      "english": "If you made a mistake, I forgive",
+      "chinese": "你错了也没事, 我原谅你",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-03T21:27:53.359065"
     }
   ],
-  "last_updated": "2026-09-03T19:02:37.621994"
+  "last_updated": "2026-09-03T21:27:53.359067"
 }
