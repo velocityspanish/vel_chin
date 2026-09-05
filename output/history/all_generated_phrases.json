@@ -19439,7 +19439,37 @@
       "chinese": "再多一句, 再休息, 你可以的",
       "category": "Perseverance",
       "generated_at": "2026-09-05T15:42:29.900588"
+    },
+    {
+      "english": "Learn “你好”, then wave, big smile",
+      "chinese": "学“你好”，再挥手，大笑",
+      "category": "Joy",
+      "generated_at": "2026-09-05T17:52:20.057724"
+    },
+    {
+      "english": "Say “谢谢”, stop, breathe, you did it",
+      "chinese": "说“谢谢”，停下，呼吸，你成功了",
+      "category": "Joy",
+      "generated_at": "2026-09-05T17:52:20.057734"
+    },
+    {
+      "english": "Order food, point, say “要”, easy",
+      "chinese": "点吃的，指一指，说“要”，很简单",
+      "category": "Joy",
+      "generated_at": "2026-09-05T17:52:20.057736"
+    },
+    {
+      "english": "Ask prices, be brave, “多少钱？”",
+      "chinese": "问价格，别怕， “duōshǎo qián？”",
+      "category": "Joy",
+      "generated_at": "2026-09-05T17:52:20.057738"
+    },
+    {
+      "english": "Use “再说”, pause, laugh, keep going",
+      "chinese": "用“再说”，停一停，笑一笑，再来",
+      "category": "Joy",
+      "generated_at": "2026-09-05T17:52:20.057739"
     }
   ],
-  "last_updated": "2026-09-05T15:42:29.900590"
+  "last_updated": "2026-09-05T17:52:20.057741"
 }
