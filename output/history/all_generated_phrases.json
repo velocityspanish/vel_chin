@@ -19709,7 +19709,37 @@
       "chinese": "做完一件事，偷偷庆祝",
       "category": "Happiness",
       "generated_at": "2026-09-07T05:52:49.889919"
+    },
+    {
+      "english": "Forgive me, okay, I’ll learn your way",
+      "chinese": "原谅我，好吗，我会学你的方式",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-07T18:00:08.716903"
+    },
+    {
+      "english": "Let it go, darling, I mean it",
+      "chinese": "放下吧，亲爱的，我是认真的",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-07T18:00:08.716916"
+    },
+    {
+      "english": "No hard feelings, sweetheart, we can start again",
+      "chinese": "别生气，宝贝，我们可以重新开始",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-07T18:00:08.716917"
+    },
+    {
+      "english": "I apologize, baby, please forgive me",
+      "chinese": "对不起，宝贝，请原谅我",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-07T18:00:08.716919"
+    },
+    {
+      "english": "Sorry, okay, I won’t do it again",
+      "chinese": "抱歉，好吗，我不会再做了",
+      "category": "Forgiveness",
+      "generated_at": "2026-09-07T18:00:08.716920"
     }
   ],
-  "last_updated": "2026-09-07T05:52:49.889921"
+  "last_updated": "2026-09-07T18:00:08.716922"
 }
