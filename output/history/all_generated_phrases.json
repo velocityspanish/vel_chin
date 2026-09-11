@@ -20309,7 +20309,37 @@
       "chinese": "向朋友道歉, 别说“没关系”.",
       "category": "Friendship",
       "generated_at": "2026-09-11T05:44:56.765438"
+    },
+    {
+      "english": "Say it scared, then laugh, you’re learning",
+      "chinese": "怕也要说, 然后笑, 你在学",
+      "category": "Courage",
+      "generated_at": "2026-09-11T16:49:38.567704"
+    },
+    {
+      "english": "Ask once, breathe twice, keep going",
+      "chinese": "先问一次, 再喘两口, 别停",
+      "category": "Courage",
+      "generated_at": "2026-09-11T16:49:38.567713"
+    },
+    {
+      "english": "Try slow, your brain will catch up",
+      "chinese": "说慢点, 你的脑子会跟上",
+      "category": "Courage",
+      "generated_at": "2026-09-11T16:49:38.567715"
+    },
+    {
+      "english": "Stumble is fine, speak anyway, okay?",
+      "chinese": "磕巴也没事, 还是要说, 行吗",
+      "category": "Courage",
+      "generated_at": "2026-09-11T16:49:38.567716"
+    },
+    {
+      "english": "Today you’re brave, even in small words",
+      "chinese": "今天你很勇敢, 就从小词开始",
+      "category": "Courage",
+      "generated_at": "2026-09-11T16:49:38.567717"
     }
   ],
-  "last_updated": "2026-09-11T05:44:56.765440"
+  "last_updated": "2026-09-11T16:49:38.567719"
 }
