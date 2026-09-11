@@ -20339,7 +20339,37 @@
       "chinese": "今天你很勇敢, 就从小词开始",
       "category": "Courage",
       "generated_at": "2026-09-11T16:49:38.567717"
+    },
+    {
+      "english": "Slow down, don’t say it perfect, yet",
+      "chinese": "慢一点，先别说得太完美",
+      "category": "Patience",
+      "generated_at": "2026-09-11T18:56:02.483924"
+    },
+    {
+      "english": "Wrong words happen, pause, breathe, then try again",
+      "chinese": "说错很正常，停一下，再试一次",
+      "category": "Patience",
+      "generated_at": "2026-09-11T18:56:02.483937"
+    },
+    {
+      "english": "Don’t rush words, your ears need time",
+      "chinese": "别急着说，耳朵需要时间",
+      "category": "Patience",
+      "generated_at": "2026-09-11T18:56:02.483938"
+    },
+    {
+      "english": "Hold your breath less, learn one word",
+      "chinese": "别憋着气，先学一个词",
+      "category": "Patience",
+      "generated_at": "2026-09-11T18:56:02.483940"
+    },
+    {
+      "english": "Repeat softly, the tone will get better",
+      "chinese": "轻轻重复，声调会变好",
+      "category": "Patience",
+      "generated_at": "2026-09-11T18:56:02.483941"
     }
   ],
-  "last_updated": "2026-09-11T16:49:38.567719"
+  "last_updated": "2026-09-11T18:56:02.483943"
 }
