@@ -20279,7 +20279,37 @@
       "chinese": "怀疑来了，希望还在心里",
       "category": "Hope",
       "generated_at": "2026-09-10T23:57:53.993491"
+    },
+    {
+      "english": "Friends help, you say “wǒ péngyou”.",
+      "chinese": "朋友帮忙, 你说“我朋友”.",
+      "category": "Friendship",
+      "generated_at": "2026-09-11T05:44:56.765424"
+    },
+    {
+      "english": "Wrong: “together go”, say “zài yì qǐ”.",
+      "chinese": "不对: 一起去, 说“在一起”.",
+      "category": "Friendship",
+      "generated_at": "2026-09-11T05:44:56.765434"
+    },
+    {
+      "english": "Share this snack, tell them “ní chī”.",
+      "chinese": "把这个点心给你, 说“你吃”.",
+      "category": "Friendship",
+      "generated_at": "2026-09-11T05:44:56.765436"
+    },
+    {
+      "english": "Text your friend, don’t say “hello”.",
+      "chinese": "给朋友发消息, 别说“你好”.",
+      "category": "Friendship",
+      "generated_at": "2026-09-11T05:44:56.765437"
+    },
+    {
+      "english": "Say sorry to a friend, not “it’s ok”.",
+      "chinese": "向朋友道歉, 别说“没关系”.",
+      "category": "Friendship",
+      "generated_at": "2026-09-11T05:44:56.765438"
     }
   ],
-  "last_updated": "2026-09-10T23:57:53.993493"
+  "last_updated": "2026-09-11T05:44:56.765440"
 }
