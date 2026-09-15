@@ -20939,7 +20939,37 @@
       "chinese": "没关系, 再试一次, 你在学",
       "category": "Positive Life",
       "generated_at": "2026-09-15T17:24:09.438517"
+    },
+    {
+      "english": "Don’t say fast, start slow, then speed up",
+      "chinese": "别说太快，先慢一点，再加速",
+      "category": "Wisdom",
+      "generated_at": "2026-09-15T19:28:04.133914"
+    },
+    {
+      "english": "Not just words, use them in questions",
+      "chinese": "不是只会词，要用在问句里",
+      "category": "Wisdom",
+      "generated_at": "2026-09-15T19:28:04.133924"
+    },
+    {
+      "english": "Wrong tone, it changes meaning, fix it",
+      "chinese": "音调错了，意思就变了，改回来",
+      "category": "Wisdom",
+      "generated_at": "2026-09-15T19:28:04.133925"
+    },
+    {
+      "english": "Short answer, then add one more detail",
+      "chinese": "先答短的，再加一个小细节",
+      "category": "Wisdom",
+      "generated_at": "2026-09-15T19:28:04.133925"
+    },
+    {
+      "english": "Stop translating, think in Chinese first",
+      "chinese": "别总翻译，先用中文想一下",
+      "category": "Wisdom",
+      "generated_at": "2026-09-15T19:28:04.133926"
     }
   ],
-  "last_updated": "2026-09-15T17:24:09.438519"
+  "last_updated": "2026-09-15T19:28:04.133927"
 }
