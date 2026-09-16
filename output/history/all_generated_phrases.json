@@ -21119,7 +21119,37 @@
       "chinese": "要请求, 先说请",
       "category": "Wisdom",
       "generated_at": "2026-09-16T19:19:35.658767"
+    },
+    {
+      "english": "No, say “wǒ” first, not “wo”.",
+      "chinese": "不对，先说“我”，不要说“wo”。",
+      "category": "Balance",
+      "generated_at": "2026-09-16T21:47:15.037198"
+    },
+    {
+      "english": "Stop, add the “r”, not “l”, please.",
+      "chinese": "停一下，先加“r”，不要说“l”，可以吗？",
+      "category": "Balance",
+      "generated_at": "2026-09-16T21:47:15.037213"
+    },
+    {
+      "english": "Wait, add “de”, don’t skip it.",
+      "chinese": "等一下，加“的”，别跳过。",
+      "category": "Balance",
+      "generated_at": "2026-09-16T21:47:15.037214"
+    },
+    {
+      "english": "Careful, say “zài”, not “zǎi”.",
+      "chinese": "小心，先说“再”，不要说“zǎi”。",
+      "category": "Balance",
+      "generated_at": "2026-09-16T21:47:15.037216"
+    },
+    {
+      "english": "Listen, the tones change, don’t copy English.",
+      "chinese": "听一下，声调会变，别照英语说。",
+      "category": "Balance",
+      "generated_at": "2026-09-16T21:47:15.037217"
     }
   ],
-  "last_updated": "2026-09-16T19:19:35.658768"
+  "last_updated": "2026-09-16T21:47:15.037219"
 }
