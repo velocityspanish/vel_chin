@@ -21089,7 +21089,37 @@
       "chinese": "需要帮助说请, 说一遍, 再重复",
       "category": "Strength",
       "generated_at": "2026-09-16T17:22:49.429614"
+    },
+    {
+      "english": "Don’t say “too”, use “yídiǎn”, please",
+      "chinese": "别说太多, 用一点就好",
+      "category": "Wisdom",
+      "generated_at": "2026-09-16T19:19:35.658754"
+    },
+    {
+      "english": "First say subject, then add time",
+      "chinese": "先说我, 再说今天",
+      "category": "Wisdom",
+      "generated_at": "2026-09-16T19:19:35.658765"
+    },
+    {
+      "english": "Keep it simple, don’t overthink grammar",
+      "chinese": "别想太复杂, 说短一点",
+      "category": "Wisdom",
+      "generated_at": "2026-09-16T19:19:35.658766"
+    },
+    {
+      "english": "When asking, start with “nǎ lǐ”",
+      "chinese": "问哪里, 先用哪里",
+      "category": "Wisdom",
+      "generated_at": "2026-09-16T19:19:35.658766"
+    },
+    {
+      "english": "Use “qǐng” before request, be polite",
+      "chinese": "要请求, 先说请",
+      "category": "Wisdom",
+      "generated_at": "2026-09-16T19:19:35.658767"
     }
   ],
-  "last_updated": "2026-09-16T17:22:49.429615"
+  "last_updated": "2026-09-16T19:19:35.658768"
 }
