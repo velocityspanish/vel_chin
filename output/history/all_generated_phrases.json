@@ -21419,7 +21419,37 @@
       "chinese": "先用简单词，再慢慢加",
       "category": "Balance",
       "generated_at": "2026-09-18T18:48:44.898702"
+    },
+    {
+      "english": "Say it once, then try again, calmly.",
+      "chinese": "说一次, 再试一次, 别急.",
+      "category": "Confidence",
+      "generated_at": "2026-09-18T21:19:27.261863"
+    },
+    {
+      "english": "Breathe, speak short, you’ve got this.",
+      "chinese": "深呼吸, 说短句, 你可以.",
+      "category": "Confidence",
+      "generated_at": "2026-09-18T21:19:27.261876"
+    },
+    {
+      "english": "Look at the sentence, then speak.",
+      "chinese": "看句子, 再开口说.",
+      "category": "Confidence",
+      "generated_at": "2026-09-18T21:19:27.261878"
+    },
+    {
+      "english": "Start with “please”, it helps you relax.",
+      "chinese": "先说“请”, 你会更放松.",
+      "category": "Confidence",
+      "generated_at": "2026-09-18T21:19:27.261879"
+    },
+    {
+      "english": "Answer slowly, correct gently, then move on.",
+      "chinese": "慢慢回答, 轻轻改, 然后继续.",
+      "category": "Confidence",
+      "generated_at": "2026-09-18T21:19:27.261881"
     }
   ],
-  "last_updated": "2026-09-18T18:48:44.898704"
+  "last_updated": "2026-09-18T21:19:27.261883"
 }
