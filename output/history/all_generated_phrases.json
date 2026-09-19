@@ -21449,7 +21449,37 @@
       "chinese": "慢慢回答, 轻轻改, 然后继续.",
       "category": "Confidence",
       "generated_at": "2026-09-18T21:19:27.261881"
+    },
+    {
+      "english": "Courage grows, say it anyway, one try",
+      "chinese": "勇气在长大, 先说出来, 再试一次",
+      "category": "Courage",
+      "generated_at": "2026-09-19T00:07:29.065808"
+    },
+    {
+      "english": "Your mouth shakes, you still greet first",
+      "chinese": "嘴会发抖, 你还是先打招呼",
+      "category": "Courage",
+      "generated_at": "2026-09-19T00:07:29.065817"
+    },
+    {
+      "english": "Make mistakes early, courage arrives after",
+      "chinese": "早点犯错, 勇气就会来",
+      "category": "Courage",
+      "generated_at": "2026-09-19T00:07:29.065818"
+    },
+    {
+      "english": "When fear speaks, answer in one word",
+      "chinese": "害怕开口, 你用一个词回答",
+      "category": "Courage",
+      "generated_at": "2026-09-19T00:07:29.065820"
+    },
+    {
+      "english": "Start with hello, courage follows your voice",
+      "chinese": "先说你好, 勇气跟着你的声音走",
+      "category": "Courage",
+      "generated_at": "2026-09-19T00:07:29.065821"
     }
   ],
-  "last_updated": "2026-09-18T21:19:27.261883"
+  "last_updated": "2026-09-19T00:07:29.065823"
 }
