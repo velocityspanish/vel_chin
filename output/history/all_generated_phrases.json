@@ -22379,7 +22379,37 @@
       "chinese": "深呼吸, 放松点, 再顺着说",
       "category": "Balance",
       "generated_at": "2026-09-25T00:25:45.246069"
+    },
+    {
+      "english": "Be kind first, speak softly, help right now",
+      "chinese": "先善良, 轻声说, 现在帮忙",
+      "category": "Kindness",
+      "generated_at": "2026-09-25T06:00:50.297344"
+    },
+    {
+      "english": "If someone struggles, ask, “Need help?”",
+      "chinese": "别人不容易, 问问, 需要帮忙吗",
+      "category": "Kindness",
+      "generated_at": "2026-09-25T06:00:50.297355"
+    },
+    {
+      "english": "Compliment today, not tomorrow, make it kind",
+      "chinese": "今天夸, 不等明天, 真诚善意",
+      "category": "Kindness",
+      "generated_at": "2026-09-25T06:00:50.297356"
+    },
+    {
+      "english": "Share your seat, be patient, let them pass",
+      "chinese": "把座位让出来, 耐心点, 让他过去",
+      "category": "Kindness",
+      "generated_at": "2026-09-25T06:00:50.297357"
+    },
+    {
+      "english": "When you make mistakes, say sorry, reset",
+      "chinese": "做错了, 说对不起, 重新开始",
+      "category": "Kindness",
+      "generated_at": "2026-09-25T06:00:50.297358"
     }
   ],
-  "last_updated": "2026-09-25T00:25:45.246071"
+  "last_updated": "2026-09-25T06:00:50.297360"
 }
