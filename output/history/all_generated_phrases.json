@@ -23099,7 +23099,37 @@
       "chinese": "练小步, 自然更有信心.",
       "category": "Confidence",
       "generated_at": "2026-09-29T22:43:59.831192"
+    },
+    {
+      "english": "Slow down, patience helps you learn faster",
+      "chinese": "慢一点，耐心让你学得更快",
+      "category": "Patience",
+      "generated_at": "2026-09-30T01:12:42.832443"
+    },
+    {
+      "english": "Stay calm, tones come with time",
+      "chinese": "别急，声调会慢慢来",
+      "category": "Patience",
+      "generated_at": "2026-09-30T01:12:42.832453"
+    },
+    {
+      "english": "Practice daily, small steps build big skill",
+      "chinese": "每天练习，小步成就大能力",
+      "category": "Patience",
+      "generated_at": "2026-09-30T01:12:42.832455"
+    },
+    {
+      "english": "Repeat again, you’re training your ear",
+      "chinese": "再说一遍，你在练你的耳朵",
+      "category": "Patience",
+      "generated_at": "2026-09-30T01:12:42.832456"
+    },
+    {
+      "english": "Not perfect yet, keep going kindly",
+      "chinese": "还不完美，继续温柔地练",
+      "category": "Patience",
+      "generated_at": "2026-09-30T01:12:42.832457"
     }
   ],
-  "last_updated": "2026-09-29T22:43:59.831194"
+  "last_updated": "2026-09-30T01:12:42.832459"
 }
