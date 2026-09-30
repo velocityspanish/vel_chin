@@ -23219,7 +23219,37 @@
       "chinese": "今晚陪着我, 好吗, 我想你",
       "category": "Love",
       "generated_at": "2026-09-30T20:28:46.754057"
+    },
+    {
+      "english": "Be kind, help first, then ask politely",
+      "chinese": "先善良, 帮忙了, 再礼貌问",
+      "category": "Kindness",
+      "generated_at": "2026-09-30T22:41:39.161301"
+    },
+    {
+      "english": "Sorry, I didn’t mean it, my bad",
+      "chinese": "对不起, 我不是故意的",
+      "category": "Kindness",
+      "generated_at": "2026-09-30T22:41:39.161313"
+    },
+    {
+      "english": "Share your notes, don’t keep it only",
+      "chinese": "把笔记分享, 别只留给你",
+      "category": "Kindness",
+      "generated_at": "2026-09-30T22:41:39.161315"
+    },
+    {
+      "english": "Give way, thank you, you’re so nice",
+      "chinese": "让一下, 谢谢你, 你真好",
+      "category": "Kindness",
+      "generated_at": "2026-09-30T22:41:39.161316"
+    },
+    {
+      "english": "Take turns, don’t grab, we both learn",
+      "chinese": "轮流来, 别抢, 我们都学",
+      "category": "Kindness",
+      "generated_at": "2026-09-30T22:41:39.161317"
     }
   ],
-  "last_updated": "2026-09-30T20:28:46.754058"
+  "last_updated": "2026-09-30T22:41:39.161319"
 }
