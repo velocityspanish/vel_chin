@@ -23129,7 +23129,37 @@
       "chinese": "还不完美，继续温柔地练",
       "category": "Patience",
       "generated_at": "2026-09-30T01:12:42.832457"
+    },
+    {
+      "english": "Breathe in, relax your tongue, say slowly",
+      "chinese": "吸气放松舌头, 慢慢说",
+      "category": "Mindfulness",
+      "generated_at": "2026-09-30T06:30:40.554564"
+    },
+    {
+      "english": "Listen first, then answer without rushing",
+      "chinese": "先听再说, 不要着急",
+      "category": "Mindfulness",
+      "generated_at": "2026-09-30T06:30:40.554578"
+    },
+    {
+      "english": "Feel the tones, slow your speech",
+      "chinese": "感受声调, 放慢说话",
+      "category": "Mindfulness",
+      "generated_at": "2026-09-30T06:30:40.554579"
+    },
+    {
+      "english": "Small moment, pause, start the sentence",
+      "chinese": "给自己一秒, 停一下, 再说",
+      "category": "Mindfulness",
+      "generated_at": "2026-09-30T06:30:40.554580"
+    },
+    {
+      "english": "Check your breath, keep sentences short",
+      "chinese": "先看呼吸, 句子别太长",
+      "category": "Mindfulness",
+      "generated_at": "2026-09-30T06:30:40.554581"
     }
   ],
-  "last_updated": "2026-09-30T01:12:42.832459"
+  "last_updated": "2026-09-30T06:30:40.554583"
 }
