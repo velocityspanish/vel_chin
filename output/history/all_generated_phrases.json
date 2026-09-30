@@ -23159,7 +23159,37 @@
       "chinese": "先看呼吸, 句子别太长",
       "category": "Mindfulness",
       "generated_at": "2026-09-30T06:30:40.554581"
+    },
+    {
+      "english": "Keep going, start with one easy word",
+      "chinese": "继续吧, 从一个容易的词开始",
+      "category": "Perseverance",
+      "generated_at": "2026-09-30T18:12:31.156209"
+    },
+    {
+      "english": "Don’t quit, try again, same day",
+      "chinese": "别放弃, 再试一次, 今天就行",
+      "category": "Perseverance",
+      "generated_at": "2026-09-30T18:12:31.156220"
+    },
+    {
+      "english": "You missed it, no worry, practice again",
+      "chinese": "你说错了, 没关系, 再练一次",
+      "category": "Perseverance",
+      "generated_at": "2026-09-30T18:12:31.156222"
+    },
+    {
+      "english": "Wrong tone, fix it, repeat the sentence",
+      "chinese": "这个声调错了, 改一下, 再说一遍",
+      "category": "Perseverance",
+      "generated_at": "2026-09-30T18:12:31.156223"
+    },
+    {
+      "english": "Small practice, every day, you improve",
+      "chinese": "每天小练习, 你就会进步",
+      "category": "Perseverance",
+      "generated_at": "2026-09-30T18:12:31.156224"
     }
   ],
-  "last_updated": "2026-09-30T06:30:40.554583"
+  "last_updated": "2026-09-30T18:12:31.156226"
 }
