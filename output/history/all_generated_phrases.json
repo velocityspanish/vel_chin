@@ -23309,7 +23309,37 @@
       "chinese": "谢谢你指出来, 我现在更强了!",
       "category": "Gratitude",
       "generated_at": "2026-10-01T07:03:31.399527"
+    },
+    {
+      "english": "Brave up, say “bu yòng”, keep going",
+      "chinese": "勇敢点，别用“bu yòng”，继续走",
+      "category": "Strength",
+      "generated_at": "2026-10-01T18:38:47.636531"
+    },
+    {
+      "english": "Small win, “jiǎn dān”, strength grows",
+      "chinese": "小胜一把，简单说，力量变强",
+      "category": "Strength",
+      "generated_at": "2026-10-01T18:38:47.636539"
+    },
+    {
+      "english": "Speak up, use “qǐng”, ask clearly",
+      "chinese": "先开口，用“qǐng”，清楚问出来",
+      "category": "Strength",
+      "generated_at": "2026-10-01T18:38:47.636541"
+    },
+    {
+      "english": "Keep calm, say “méi guānxi”, breathe on",
+      "chinese": "别慌，先说“méi guānxi”，呼吸继续",
+      "category": "Strength",
+      "generated_at": "2026-10-01T18:38:47.636542"
+    },
+    {
+      "english": "Try again, “zài lái yī cì”, practice power",
+      "chinese": "再来一次，说“zài lái yī cì”，练出劲",
+      "category": "Strength",
+      "generated_at": "2026-10-01T18:38:47.636543"
     }
   ],
-  "last_updated": "2026-10-01T07:03:31.399529"
+  "last_updated": "2026-10-01T18:38:47.636545"
 }
