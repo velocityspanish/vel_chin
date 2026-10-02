@@ -23519,7 +23519,37 @@
       "chinese": "聊两句, 问“在哪儿”就够",
       "category": "Purpose",
       "generated_at": "2026-10-02T20:18:16.276275"
+    },
+    {
+      "english": "Hope you try again, don’t quit yet",
+      "chinese": "别放弃，再试一次就行",
+      "category": "Hope",
+      "generated_at": "2026-10-02T22:39:17.706625"
+    },
+    {
+      "english": "Mistake is ok, pause, say it again",
+      "chinese": "错了也没事，停一下，再说一次",
+      "category": "Hope",
+      "generated_at": "2026-10-02T22:39:17.706640"
+    },
+    {
+      "english": "Start slow, learn one word a day",
+      "chinese": "慢慢来，每天学一个词",
+      "category": "Hope",
+      "generated_at": "2026-10-02T22:39:17.706641"
+    },
+    {
+      "english": "Hope you remember, say it with rhythm",
+      "chinese": "记住就好，用节奏念出来",
+      "category": "Hope",
+      "generated_at": "2026-10-02T22:39:17.706643"
+    },
+    {
+      "english": "Don’t translate word by word, try a chunk",
+      "chinese": "别逐词翻，记一整句",
+      "category": "Hope",
+      "generated_at": "2026-10-02T22:39:17.706644"
     }
   ],
-  "last_updated": "2026-10-02T20:18:16.276277"
+  "last_updated": "2026-10-02T22:39:17.706646"
 }
