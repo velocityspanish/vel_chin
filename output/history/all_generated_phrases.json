@@ -23879,7 +23879,37 @@
       "chinese": "你可以的, 深呼吸, 再开口",
       "category": "Confidence",
       "generated_at": "2026-10-05T00:41:29.430864"
+    },
+    {
+      "english": "Quietly read, then speak one sentence",
+      "chinese": "先小声读，再说一句话",
+      "category": "Success",
+      "generated_at": "2026-10-05T06:44:29.208011"
+    },
+    {
+      "english": "Slow down, think Chinese words",
+      "chinese": "慢一点，心里想中文",
+      "category": "Success",
+      "generated_at": "2026-10-05T06:44:29.208021"
+    },
+    {
+      "english": "Repeat daily, short lines, real life",
+      "chinese": "天天复读，短句子就够",
+      "category": "Success",
+      "generated_at": "2026-10-05T06:44:29.208023"
+    },
+    {
+      "english": "Listen first, then shadow the speaker",
+      "chinese": "先听，再跟着学语气",
+      "category": "Success",
+      "generated_at": "2026-10-05T06:44:29.208024"
+    },
+    {
+      "english": "Name your day, in simple Chinese",
+      "chinese": "用简单中文，说说今天",
+      "category": "Success",
+      "generated_at": "2026-10-05T06:44:29.208025"
     }
   ],
-  "last_updated": "2026-10-05T00:41:29.430866"
+  "last_updated": "2026-10-05T06:44:29.208026"
 }
