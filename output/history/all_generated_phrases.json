@@ -23849,7 +23849,37 @@
       "chinese": "现在练一下, 以后进步大, 真的",
       "category": "Perseverance",
       "generated_at": "2026-10-04T22:02:38.234101"
+    },
+    {
+      "english": "Good start, don’t translate word by word",
+      "chinese": "先有个好开头, 别一个字一个字翻",
+      "category": "Confidence",
+      "generated_at": "2026-10-05T00:41:29.430844"
+    },
+    {
+      "english": "Try the sentence, then check the tones",
+      "chinese": "先说句子, 再检查声调",
+      "category": "Confidence",
+      "generated_at": "2026-10-05T00:41:29.430860"
+    },
+    {
+      "english": "Start slow, then say it like normal",
+      "chinese": "先慢一点, 再说得像平时",
+      "category": "Confidence",
+      "generated_at": "2026-10-05T00:41:29.430861"
+    },
+    {
+      "english": "Don’t stop, keep the rhythm moving",
+      "chinese": "别停, 让节奏继续走",
+      "category": "Confidence",
+      "generated_at": "2026-10-05T00:41:29.430863"
+    },
+    {
+      "english": "You can do it, breathe, then speak",
+      "chinese": "你可以的, 深呼吸, 再开口",
+      "category": "Confidence",
+      "generated_at": "2026-10-05T00:41:29.430864"
     }
   ],
-  "last_updated": "2026-10-04T22:02:38.234103"
+  "last_updated": "2026-10-05T00:41:29.430866"
 }
