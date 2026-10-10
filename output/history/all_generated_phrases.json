@@ -24599,7 +24599,37 @@
       "chinese": "今天一个词, 就一直重复。",
       "category": "Joy",
       "generated_at": "2026-10-09T22:57:53.815684"
+    },
+    {
+      "english": "Friends, we share snacks, talk, then laugh",
+      "chinese": "朋友一起分享零食, 聊天, 再大笑",
+      "category": "Friendship",
+      "generated_at": "2026-10-10T01:39:22.107455"
+    },
+    {
+      "english": "Good friends, check on you, every day",
+      "chinese": "好朋友会关心你, 每一天",
+      "category": "Friendship",
+      "generated_at": "2026-10-10T01:39:22.107469"
+    },
+    {
+      "english": "True friends, stand by you, no worries",
+      "chinese": "真朋友站在你身边, 别担心",
+      "category": "Friendship",
+      "generated_at": "2026-10-10T01:39:22.107470"
+    },
+    {
+      "english": "Let’s be friends, slow talk, big smiles",
+      "chinese": "我们做朋友, 慢慢说, 大大笑",
+      "category": "Friendship",
+      "generated_at": "2026-10-10T01:39:22.107471"
+    },
+    {
+      "english": "You help me, I help you, that’s friendship",
+      "chinese": "你帮我, 我帮你, 这就是友谊",
+      "category": "Friendship",
+      "generated_at": "2026-10-10T01:39:22.107473"
     }
   ],
-  "last_updated": "2026-10-09T22:57:53.815686"
+  "last_updated": "2026-10-10T01:39:22.107475"
 }
