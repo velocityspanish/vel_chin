@@ -25139,7 +25139,37 @@
       "chinese": "谢谢你帮忙, 你辛苦了, 善意更长久",
       "category": "Kindness",
       "generated_at": "2026-10-13T19:37:40.381873"
+    },
+    {
+      "english": "Don’t be scared, say it out loud",
+      "chinese": "别害怕，大声说出来",
+      "category": "Courage",
+      "generated_at": "2026-10-13T20:57:38.844297"
+    },
+    {
+      "english": "Ask again, it’s brave to ask",
+      "chinese": "再问一次，敢问就进步",
+      "category": "Courage",
+      "generated_at": "2026-10-13T20:57:38.844308"
+    },
+    {
+      "english": "Make the first try, even wrong",
+      "chinese": "先试一次，就算错也行",
+      "category": "Courage",
+      "generated_at": "2026-10-13T20:57:38.844309"
+    },
+    {
+      "english": "Say “I don’t know”, then learn",
+      "chinese": "先说“不知道”，再去学",
+      "category": "Courage",
+      "generated_at": "2026-10-13T20:57:38.844311"
+    },
+    {
+      "english": "Pause, breathe, then answer",
+      "chinese": "停一下，想一想，再回答",
+      "category": "Courage",
+      "generated_at": "2026-10-13T20:57:38.844312"
     }
   ],
-  "last_updated": "2026-10-13T19:37:40.381875"
+  "last_updated": "2026-10-13T20:57:38.844314"
 }
