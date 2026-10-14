@@ -25259,7 +25259,37 @@
       "chinese": "我在听, 你再说点, 请",
       "category": "Joy",
       "generated_at": "2026-10-14T05:58:15.817076"
+    },
+    {
+      "english": "Try one word, then use it today",
+      "chinese": "先试一个词, 然后今天用上",
+      "category": "Strength",
+      "generated_at": "2026-10-14T17:41:08.930243"
+    },
+    {
+      "english": "Slow down, listen again, then speak",
+      "chinese": "放慢点, 再听一遍, 再说",
+      "category": "Strength",
+      "generated_at": "2026-10-14T17:41:08.930254"
+    },
+    {
+      "english": "Learn a phrase, practice it daily",
+      "chinese": "学一句话, 每天练习",
+      "category": "Strength",
+      "generated_at": "2026-10-14T17:41:08.930255"
+    },
+    {
+      "english": "Write it once, check tones carefully",
+      "chinese": "写一遍, 仔细对声调",
+      "category": "Strength",
+      "generated_at": "2026-10-14T17:41:08.930256"
+    },
+    {
+      "english": "Make mistakes, correct fast, keep moving",
+      "chinese": "出错没关系, 立刻改, 继续",
+      "category": "Strength",
+      "generated_at": "2026-10-14T17:41:08.930257"
     }
   ],
-  "last_updated": "2026-10-14T05:58:15.817078"
+  "last_updated": "2026-10-14T17:41:08.930258"
 }
