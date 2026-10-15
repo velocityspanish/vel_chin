@@ -25409,7 +25409,37 @@
       "chinese": "先听再说，别有压力",
       "category": "Patience",
       "generated_at": "2026-10-15T05:44:30.261252"
+    },
+    {
+      "english": "Thank you, not “thank” every time, please",
+      "chinese": "谢谢你, 别总说“thank”, 好吗",
+      "category": "Kindness",
+      "generated_at": "2026-10-15T17:28:03.770104"
+    },
+    {
+      "english": "Good job, keep going, don’t be shy",
+      "chinese": "做得很好, 继续吧, 别害羞",
+      "category": "Kindness",
+      "generated_at": "2026-10-15T17:28:03.770119"
+    },
+    {
+      "english": "Offer help, say “我来吧”, then smile",
+      "chinese": "帮我一下, 说“我来吧”, 再笑",
+      "category": "Kindness",
+      "generated_at": "2026-10-15T17:28:03.770120"
+    },
+    {
+      "english": "Ask politely, try “请问”, not “hey”",
+      "chinese": "礼貌一点, 试试“请问”, 别说“嘿”",
+      "category": "Kindness",
+      "generated_at": "2026-10-15T17:28:03.770122"
+    },
+    {
+      "english": "Listen first, then answer, take your time",
+      "chinese": "先听一下, 再回答, 别着急",
+      "category": "Kindness",
+      "generated_at": "2026-10-15T17:28:03.770123"
     }
   ],
-  "last_updated": "2026-10-15T05:44:30.261253"
+  "last_updated": "2026-10-15T17:28:03.770125"
 }
