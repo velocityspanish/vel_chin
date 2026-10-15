@@ -25439,7 +25439,37 @@
       "chinese": "先听一下, 再回答, 别着急",
       "category": "Kindness",
       "generated_at": "2026-10-15T17:28:03.770123"
+    },
+    {
+      "english": "Slow down, ask for one more repeat",
+      "chinese": "慢一点, 再说一遍",
+      "category": "Purpose",
+      "generated_at": "2026-10-15T19:38:58.543444"
+    },
+    {
+      "english": "Start with daily, learn from real life",
+      "chinese": "先从日常开始, 跟着生活学",
+      "category": "Purpose",
+      "generated_at": "2026-10-15T19:38:58.543452"
+    },
+    {
+      "english": "Short answers, you’ll sound more natural",
+      "chinese": "回答短一点, 听起来更自然",
+      "category": "Purpose",
+      "generated_at": "2026-10-15T19:38:58.543453"
+    },
+    {
+      "english": "After you hear it, repeat it once",
+      "chinese": "听到就跟着, 再说一遍",
+      "category": "Purpose",
+      "generated_at": "2026-10-15T19:38:58.543455"
+    },
+    {
+      "english": "Use the same word, build your confidence",
+      "chinese": "同一个词多用, 你会更自信",
+      "category": "Purpose",
+      "generated_at": "2026-10-15T19:38:58.543456"
     }
   ],
-  "last_updated": "2026-10-15T17:28:03.770125"
+  "last_updated": "2026-10-15T19:38:58.543457"
 }
