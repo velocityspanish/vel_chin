@@ -25559,7 +25559,37 @@
       "chinese": "问路说在哪儿, 然后再说谢谢",
       "category": "Happiness",
       "generated_at": "2026-10-16T05:40:36.928592"
+    },
+    {
+      "english": "Love starts small, say 我喜欢你",
+      "chinese": "爱从小开始,说 我喜欢你",
+      "category": "Love",
+      "generated_at": "2026-10-16T17:03:41.868436"
+    },
+    {
+      "english": "Heart to heart, 用 我想你",
+      "chinese": "心贴心,用 我想你",
+      "category": "Love",
+      "generated_at": "2026-10-16T17:03:41.868448"
+    },
+    {
+      "english": "Warm hugs, say 你在我心里",
+      "chinese": "温暖拥抱,说 你在我心里",
+      "category": "Love",
+      "generated_at": "2026-10-16T17:03:41.868450"
+    },
+    {
+      "english": "Before sleep, whisper 我爱你",
+      "chinese": "睡前轻声,低语 我爱你",
+      "category": "Love",
+      "generated_at": "2026-10-16T17:03:41.868452"
+    },
+    {
+      "english": "Every day kindness, 你让我很开心",
+      "chinese": "每天温柔,你让我很开心",
+      "category": "Love",
+      "generated_at": "2026-10-16T17:03:41.868453"
     }
   ],
-  "last_updated": "2026-10-16T05:40:36.928593"
+  "last_updated": "2026-10-16T17:03:41.868455"
 }
