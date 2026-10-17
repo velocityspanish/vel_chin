@@ -25769,7 +25769,37 @@
       "chinese": "回答短一点，信心就大，马上说。",
       "category": "Confidence",
       "generated_at": "2026-10-17T18:06:33.109633"
+    },
+    {
+      "english": "Courage first, small steps, speak up.",
+      "chinese": "勇气先来，慢慢走，敢开口。",
+      "category": "Courage",
+      "generated_at": "2026-10-17T21:06:09.673760"
+    },
+    {
+      "english": "Fear knocks, breathe, answer in Chinese.",
+      "chinese": "害怕敲门，深呼吸，用中文回答。",
+      "category": "Courage",
+      "generated_at": "2026-10-17T21:06:09.673771"
+    },
+    {
+      "english": "New words scare you, try anyway, smile.",
+      "chinese": "新词吓人，也要试，笑一笑。",
+      "category": "Courage",
+      "generated_at": "2026-10-17T21:06:09.673772"
+    },
+    {
+      "english": "Mistakes happen, pause, keep the story going.",
+      "chinese": "会出错，停一下，继续讲下去。",
+      "category": "Courage",
+      "generated_at": "2026-10-17T21:06:09.673772"
+    },
+    {
+      "english": "Ask again, calm down, say it clearly.",
+      "chinese": "再问一遍，先冷静，说清楚。",
+      "category": "Courage",
+      "generated_at": "2026-10-17T21:06:09.673773"
     }
   ],
-  "last_updated": "2026-10-17T18:06:33.109635"
+  "last_updated": "2026-10-17T21:06:09.673774"
 }
