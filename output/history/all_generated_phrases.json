@@ -25859,7 +25859,37 @@
       "chinese": "错了也行，先呼吸，再轻轻改。",
       "category": "Inner Peace",
       "generated_at": "2026-10-18T05:37:40.370910"
+    },
+    {
+      "english": "Wrong word, no panic, try again in Chinese.",
+      "chinese": "用错词也没事，再说一遍，中文再来。",
+      "category": "Confidence",
+      "generated_at": "2026-10-18T16:12:32.145711"
+    },
+    {
+      "english": "Don’t stop, pause, then continue your sentence.",
+      "chinese": "别停下，先停一下，再把句子说完。",
+      "category": "Confidence",
+      "generated_at": "2026-10-18T16:12:32.145724"
+    },
+    {
+      "english": "Even shaky, speak up, use easy Chinese.",
+      "chinese": "就算有点紧张，也要开口，说简单中文。",
+      "category": "Confidence",
+      "generated_at": "2026-10-18T16:12:32.145726"
+    },
+    {
+      "english": "If you forget, say, “sorry” then restart.",
+      "chinese": "忘了也行，说对不起，再从头开始。",
+      "category": "Confidence",
+      "generated_at": "2026-10-18T16:12:32.145727"
+    },
+    {
+      "english": "One more try, same sentence, clearer tones.",
+      "chinese": "再试一次，把同一句说清楚，注意声调。",
+      "category": "Confidence",
+      "generated_at": "2026-10-18T16:12:32.145729"
     }
   ],
-  "last_updated": "2026-10-18T05:37:40.370911"
+  "last_updated": "2026-10-18T16:12:32.145731"
 }
