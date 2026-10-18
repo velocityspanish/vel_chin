@@ -25889,7 +25889,37 @@
       "chinese": "再试一次，把同一句说清楚，注意声调。",
       "category": "Confidence",
       "generated_at": "2026-10-18T16:12:32.145729"
+    },
+    {
+      "english": "Take a breath, ask for help, in Chinese.",
+      "chinese": "先深呼吸，求助，学中文也行。",
+      "category": "Courage",
+      "generated_at": "2026-10-18T18:25:25.257439"
+    },
+    {
+      "english": "Courage check, order food, point, then speak.",
+      "chinese": "先确认勇气，点餐，指一指，再开口。",
+      "category": "Courage",
+      "generated_at": "2026-10-18T18:25:25.257450"
+    },
+    {
+      "english": "Say the basics, smile first, let it flow.",
+      "chinese": "先说基础，先微笑，话就顺了。",
+      "category": "Courage",
+      "generated_at": "2026-10-18T18:25:25.257450"
+    },
+    {
+      "english": "Before you speak, slow down, keep it simple.",
+      "chinese": "你开口前，慢一点，简单就好。",
+      "category": "Courage",
+      "generated_at": "2026-10-18T18:25:25.257451"
+    },
+    {
+      "english": "Ask directions, repeat after them, don’t freeze.",
+      "chinese": "问路之后，跟着说，别僵住。",
+      "category": "Courage",
+      "generated_at": "2026-10-18T18:25:25.257452"
     }
   ],
-  "last_updated": "2026-10-18T16:12:32.145731"
+  "last_updated": "2026-10-18T18:25:25.257453"
 }
