@@ -26009,7 +26009,37 @@
       "chinese": "把希望放进声音, 用短句, 心要清楚。",
       "category": "Hope",
       "generated_at": "2026-10-19T05:55:31.410298"
+    },
+    {
+      "english": "Hold the door, say спасибо—谢谢, friend.",
+      "chinese": "帮我开门, 说谢谢, 朋友。",
+      "category": "Kindness",
+      "generated_at": "2026-10-19T18:54:00.581078"
+    },
+    {
+      "english": "When someone drops it, pick it up, help.",
+      "chinese": "东西掉了, 捡起来, 帮一把。",
+      "category": "Kindness",
+      "generated_at": "2026-10-19T18:54:00.581091"
+    },
+    {
+      "english": "If you can, share, don’t keep it.",
+      "chinese": "有的话就分享, 别都自己留。",
+      "category": "Kindness",
+      "generated_at": "2026-10-19T18:54:00.581093"
+    },
+    {
+      "english": "Say sorry, quick smile, make it right.",
+      "chinese": "说对不起, 快点微笑, 把事情弄好。",
+      "category": "Kindness",
+      "generated_at": "2026-10-19T18:54:00.581094"
+    },
+    {
+      "english": "Before you interrupt, pause, let them finish.",
+      "chinese": "你要打断前, 停一下, 让他说完。",
+      "category": "Kindness",
+      "generated_at": "2026-10-19T18:54:00.581095"
     }
   ],
-  "last_updated": "2026-10-19T05:55:31.410300"
+  "last_updated": "2026-10-19T18:54:00.581097"
 }
