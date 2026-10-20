@@ -26189,7 +26189,37 @@
       "chinese": "我原谅你, 我们可以做朋友。",
       "category": "Forgiveness",
       "generated_at": "2026-10-20T17:37:26.586661"
+    },
+    {
+      "english": "I want noodles, not rice, remember.",
+      "chinese": "我要面条，不要米饭，记住。",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T19:48:05.472068"
+    },
+    {
+      "english": "I like this, not that, okay?",
+      "chinese": "我喜欢这个，不喜欢那个，行吗？",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T19:48:05.472077"
+    },
+    {
+      "english": "Say it, then pause, don’t rush.",
+      "chinese": "先说出来，再停一下，别着急。",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T19:48:05.472078"
+    },
+    {
+      "english": "One more time, slower, you can.",
+      "chinese": "再来一次，慢一点，你可以。",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T19:48:05.472079"
+    },
+    {
+      "english": "Don’t say 'I am', just say 'I want'.",
+      "chinese": "别说“我是”，就说“我想要”。",
+      "category": "Purpose",
+      "generated_at": "2026-10-20T19:48:05.472079"
     }
   ],
-  "last_updated": "2026-10-20T17:37:26.586663"
+  "last_updated": "2026-10-20T19:48:05.472081"
 }
