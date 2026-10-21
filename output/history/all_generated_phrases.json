@@ -26309,7 +26309,37 @@
       "chinese": "点餐别紧张, 用一句话就行",
       "category": "Confidence",
       "generated_at": "2026-10-21T05:51:27.506473"
+    },
+    {
+      "english": "Pause, smile, ask for help, please",
+      "chinese": "停一下，微笑，再请你帮忙",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-21T17:45:21.970162"
+    },
+    {
+      "english": "Say what you need, keep it simple",
+      "chinese": "说你需要的，越简单越好",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-21T17:45:21.970172"
+    },
+    {
+      "english": "When words stop, use “sorry”, then try",
+      "chinese": "卡住了就说“对不起”，再试一次",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-21T17:45:21.970174"
+    },
+    {
+      "english": "Good morning, small steps, calm mind",
+      "chinese": "早上好，慢慢来，心里更稳",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-21T17:45:21.970175"
+    },
+    {
+      "english": "I’m learning, be patient, I’m fine",
+      "chinese": "我在学，别着急，我没事",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-21T17:45:21.970177"
     }
   ],
-  "last_updated": "2026-10-21T05:51:27.506475"
+  "last_updated": "2026-10-21T17:45:21.970178"
 }
