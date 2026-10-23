@@ -26639,7 +26639,37 @@
       "chinese": "再说一遍, 让它变简单",
       "category": "Confidence",
       "generated_at": "2026-10-23T17:35:17.843405"
+    },
+    {
+      "english": "Text me in Chinese, let’s practice flirting",
+      "chinese": "用中文给我发消息, 我们练习暧昧吧",
+      "category": "Purpose",
+      "generated_at": "2026-10-23T21:06:51.251709"
+    },
+    {
+      "english": "Say hi today, your Chinese will warm up",
+      "chinese": "今天先说嗨, 你的中文就热起来",
+      "category": "Purpose",
+      "generated_at": "2026-10-23T21:06:51.251721"
+    },
+    {
+      "english": "Order one dish, speak slowly, you’ll nail it",
+      "chinese": "点一个菜, 慢慢说, 你就会了",
+      "category": "Purpose",
+      "generated_at": "2026-10-23T21:06:51.251723"
+    },
+    {
+      "english": "Flirt with tones, say it sweet, not scary",
+      "chinese": "玩玩声调, 甜甜地说, 别害怕",
+      "category": "Purpose",
+      "generated_at": "2026-10-23T21:06:51.251725"
+    },
+    {
+      "english": "Keep smiling, ask one more, then repeat",
+      "chinese": "先保持微笑, 再问一句, 然后重复",
+      "category": "Purpose",
+      "generated_at": "2026-10-23T21:06:51.251727"
     }
   ],
-  "last_updated": "2026-10-23T17:35:17.843406"
+  "last_updated": "2026-10-23T21:06:51.251729"
 }
