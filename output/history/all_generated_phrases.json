@@ -27299,7 +27299,37 @@
       "chinese": "我感谢你的反馈, 它指引我的下一步。",
       "category": "Gratitude",
       "generated_at": "2026-10-28T06:18:58.321403"
+    },
+    {
+      "english": "Write one sentence, slow down, then check.",
+      "chinese": "写一句话, 放慢, 再看看。",
+      "category": "Success",
+      "generated_at": "2026-10-28T10:45:13.819254"
+    },
+    {
+      "english": "Listen a little, repeat right away, don’t wait.",
+      "chinese": "听一点, 立刻跟读, 别等。",
+      "category": "Success",
+      "generated_at": "2026-10-28T10:45:13.819264"
+    },
+    {
+      "english": "Keep it simple, one question, one answer.",
+      "chinese": "别复杂, 问一句, 答一句。",
+      "category": "Success",
+      "generated_at": "2026-10-28T10:45:13.819265"
+    },
+    {
+      "english": "Read aloud, breath calm, your tones get better.",
+      "chinese": "大声读, 呼吸稳, 声调更好。",
+      "category": "Success",
+      "generated_at": "2026-10-28T10:45:13.819266"
+    },
+    {
+      "english": "Confident small talk, then learn from mistakes.",
+      "chinese": "先聊几句, 再从错误里学。",
+      "category": "Success",
+      "generated_at": "2026-10-28T10:45:13.819267"
     }
   ],
-  "last_updated": "2026-10-28T06:18:58.321405"
+  "last_updated": "2026-10-28T10:45:13.819269"
 }
