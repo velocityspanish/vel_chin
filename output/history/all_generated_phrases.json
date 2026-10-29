@@ -27479,7 +27479,37 @@
       "chinese": "旅行小技巧, 慢一点, 说清楚。",
       "category": "Confidence",
       "generated_at": "2026-10-29T11:02:54.517791"
+    },
+    {
+      "english": "Be kind, say hello first, every day.",
+      "chinese": "先说你好, 温柔一点, 每天都这样。",
+      "category": "Kindness",
+      "generated_at": "2026-10-29T18:42:15.167386"
+    },
+    {
+      "english": "Thank you, you helped me, I mean it.",
+      "chinese": "谢谢你, 你帮了我, 我很真心。",
+      "category": "Kindness",
+      "generated_at": "2026-10-29T18:42:15.167398"
+    },
+    {
+      "english": "You’re welcome, anytime, we can help each other.",
+      "chinese": "不用谢, 什么时候都可以, 我们互相帮助。",
+      "category": "Kindness",
+      "generated_at": "2026-10-29T18:42:15.167400"
+    },
+    {
+      "english": "Sorry, no problem, let’s try again together.",
+      "chinese": "对不起, 没关系, 我们一起再试。",
+      "category": "Kindness",
+      "generated_at": "2026-10-29T18:42:15.167401"
+    },
+    {
+      "english": "Please, take your time, I’m listening.",
+      "chinese": "请慢一点, 我在听, 你不用急。",
+      "category": "Kindness",
+      "generated_at": "2026-10-29T18:42:15.167402"
     }
   ],
-  "last_updated": "2026-10-29T11:02:54.517793"
+  "last_updated": "2026-10-29T18:42:15.167404"
 }
