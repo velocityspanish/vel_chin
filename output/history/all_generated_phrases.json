@@ -27599,7 +27599,37 @@
       "chinese": "加上请, 再说谢谢, 会更顺.",
       "category": "Strength",
       "generated_at": "2026-10-30T11:01:24.682142"
+    },
+    {
+      "english": "Happy day, drink hot tea, breathe easy",
+      "chinese": "好的一天, 喝热茶, 慢慢呼吸",
+      "category": "Joy",
+      "generated_at": "2026-10-30T15:05:27.553084"
+    },
+    {
+      "english": "Say hi with a smile, you’re welcome",
+      "chinese": "微笑打招呼, 你很受欢迎",
+      "category": "Joy",
+      "generated_at": "2026-10-30T15:05:27.553099"
+    },
+    {
+      "english": "Good morning, have breakfast, start bright",
+      "chinese": "早上好, 吃早餐, 一天真顺",
+      "category": "Joy",
+      "generated_at": "2026-10-30T15:05:27.553100"
+    },
+    {
+      "english": "It’s okay, take a breath, try again",
+      "chinese": "没关系, 深呼吸, 再来一次",
+      "category": "Joy",
+      "generated_at": "2026-10-30T15:05:27.553102"
+    },
+    {
+      "english": "New words today, small steps, big progress",
+      "chinese": "今天学新词, 小步走, 大进步",
+      "category": "Joy",
+      "generated_at": "2026-10-30T15:05:27.553103"
     }
   ],
-  "last_updated": "2026-10-30T11:01:24.682143"
+  "last_updated": "2026-10-30T15:05:27.553105"
 }
