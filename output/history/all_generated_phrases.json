@@ -27779,7 +27779,37 @@
       "chinese": "手稳一点, 心放松, 说清声调",
       "category": "Mindfulness",
       "generated_at": "2026-10-31T14:32:48.815484"
+    },
+    {
+      "english": "You mean “我也”, not “我”.",
+      "chinese": "你是“我也”, 不要说“我”.",
+      "category": "Joy",
+      "generated_at": "2026-10-31T17:24:41.797531"
+    },
+    {
+      "english": "Say “谢谢”, not “thank you” twice.",
+      "chinese": "说“谢谢”, 别再重复“thank you”.",
+      "category": "Joy",
+      "generated_at": "2026-10-31T17:24:41.797543"
+    },
+    {
+      "english": "Don’t drop the “r”, say it clearly.",
+      "chinese": "别丢“r”, 先说清楚。",
+      "category": "Joy",
+      "generated_at": "2026-10-31T17:24:41.797544"
+    },
+    {
+      "english": "Short pause, then say “再见”.",
+      "chinese": "停一下, 然后说“再见”.",
+      "category": "Joy",
+      "generated_at": "2026-10-31T17:24:41.797545"
+    },
+    {
+      "english": "Use “一点儿”, not “very”., keep it simple.",
+      "chinese": "用“一点儿”, 别用“very”. 简单点。",
+      "category": "Joy",
+      "generated_at": "2026-10-31T17:24:41.797545"
     }
   ],
-  "last_updated": "2026-10-31T14:32:48.815486"
+  "last_updated": "2026-10-31T17:24:41.797547"
 }
