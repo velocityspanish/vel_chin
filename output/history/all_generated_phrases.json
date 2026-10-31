@@ -27809,7 +27809,37 @@
       "chinese": "用“一点儿”, 别用“very”. 简单点。",
       "category": "Joy",
       "generated_at": "2026-10-31T17:24:41.797545"
+    },
+    {
+      "english": "Try once, learn, then try again, smile",
+      "chinese": "先试一次, 学会了再试, 笑一笑",
+      "category": "Courage",
+      "generated_at": "2026-10-31T20:28:00.567683"
+    },
+    {
+      "english": "Make mistakes, pause, correct, keep going",
+      "chinese": "说错没关系, 停一下, 改一改, 接着来",
+      "category": "Courage",
+      "generated_at": "2026-10-31T20:28:00.567692"
+    },
+    {
+      "english": "Speak softly, then louder, you can do it",
+      "chinese": "先轻声说, 再说大一点, 你可以",
+      "category": "Courage",
+      "generated_at": "2026-10-31T20:28:00.567694"
+    },
+    {
+      "english": "Ask for help, don’t hide, keep talking",
+      "chinese": "开口问, 别躲着, 继续聊",
+      "category": "Courage",
+      "generated_at": "2026-10-31T20:28:00.567695"
+    },
+    {
+      "english": "Today is enough, start small, show up",
+      "chinese": "今天就够了, 从小开始, 来就行",
+      "category": "Courage",
+      "generated_at": "2026-10-31T20:28:00.567696"
     }
   ],
-  "last_updated": "2026-10-31T17:24:41.797547"
+  "last_updated": "2026-10-31T20:28:00.567698"
 }
