@@ -27929,7 +27929,37 @@
       "chinese": "这个多少钱, 请问",
       "category": "Purpose",
       "generated_at": "2026-11-01T15:08:52.307168"
+    },
+    {
+      "english": "Balance your day, study a little, then rest.",
+      "chinese": "把一天分开，学一点，再休息。",
+      "category": "Balance",
+      "generated_at": "2026-11-01T18:09:53.954389"
+    },
+    {
+      "english": "Learn in waves, read a bit, then talk.",
+      "chinese": "像浪一样学，读一点，再开口。",
+      "category": "Balance",
+      "generated_at": "2026-11-01T18:09:53.954400"
+    },
+    {
+      "english": "Even small practice counts, one sentence, two minutes.",
+      "chinese": "小练也算数，一句，两分钟。",
+      "category": "Balance",
+      "generated_at": "2026-11-01T18:09:53.954401"
+    },
+    {
+      "english": "Stay consistent, short study, long confidence.",
+      "chinese": "坚持就会赢，短学，长信心。",
+      "category": "Balance",
+      "generated_at": "2026-11-01T18:09:53.954403"
+    },
+    {
+      "english": "Balance listening, repeat softly, then speak clearly.",
+      "chinese": "平衡听力，轻轻跟读，再说清楚。",
+      "category": "Balance",
+      "generated_at": "2026-11-01T18:09:53.954404"
     }
   ],
-  "last_updated": "2026-11-01T15:08:52.307170"
+  "last_updated": "2026-11-01T18:09:53.954406"
 }
