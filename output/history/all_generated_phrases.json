@@ -27899,7 +27899,37 @@
       "chinese": "别赶调, 慢慢说清楚",
       "category": "Patience",
       "generated_at": "2026-11-01T11:26:30.753029"
+    },
+    {
+      "english": "Say please, it opens doors, everywhere",
+      "chinese": "说请你, 事情更顺, 到处都用",
+      "category": "Purpose",
+      "generated_at": "2026-11-01T15:08:52.307153"
+    },
+    {
+      "english": "I’m learning Chinese, please speak slowly",
+      "chinese": "我在学中文, 请慢一点说",
+      "category": "Purpose",
+      "generated_at": "2026-11-01T15:08:52.307164"
+    },
+    {
+      "english": "I don’t understand, can you repeat once",
+      "chinese": "我听不懂, 你再说一遍",
+      "category": "Purpose",
+      "generated_at": "2026-11-01T15:08:52.307165"
+    },
+    {
+      "english": "Excuse me, where is the subway",
+      "chinese": "不好意思, 地铁在哪里",
+      "category": "Purpose",
+      "generated_at": "2026-11-01T15:08:52.307167"
+    },
+    {
+      "english": "How much is this, please",
+      "chinese": "这个多少钱, 请问",
+      "category": "Purpose",
+      "generated_at": "2026-11-01T15:08:52.307168"
     }
   ],
-  "last_updated": "2026-11-01T11:26:30.753031"
+  "last_updated": "2026-11-01T15:08:52.307170"
 }
