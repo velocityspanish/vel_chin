@@ -28109,7 +28109,37 @@
       "chinese": "天气变了, 我们的友谊不变",
       "category": "Friendship",
       "generated_at": "2026-11-02T22:02:04.419762"
+    },
+    {
+      "english": "Keep going, Chinese rewards daily effort, not talent",
+      "chinese": "坚持下去，中文会回报每天的努力，不是天赋",
+      "category": "Perseverance",
+      "generated_at": "2026-11-02T23:54:34.617920"
+    },
+    {
+      "english": "Stuck on a word, repeat it ten times",
+      "chinese": "卡在一个词上，就重复十遍",
+      "category": "Perseverance",
+      "generated_at": "2026-11-02T23:54:34.617932"
+    },
+    {
+      "english": "Read aloud, your mouth learns faster than your brain",
+      "chinese": "大声读出来，嘴会学得比脑子快",
+      "category": "Perseverance",
+      "generated_at": "2026-11-02T23:54:34.617934"
+    },
+    {
+      "english": "Practice with songs, your tones stick longer",
+      "chinese": "用歌曲练习，你的声调记得更久",
+      "category": "Perseverance",
+      "generated_at": "2026-11-02T23:54:34.617935"
+    },
+    {
+      "english": "Wrong sentence, save it, fix it tomorrow",
+      "chinese": "说错句子，先记下来，明天再改",
+      "category": "Perseverance",
+      "generated_at": "2026-11-02T23:54:34.617936"
     }
   ],
-  "last_updated": "2026-11-02T22:02:04.419764"
+  "last_updated": "2026-11-02T23:54:34.617938"
 }
