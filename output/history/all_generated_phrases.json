@@ -28079,7 +28079,37 @@
       "chinese": "先问再答，用简单的话",
       "category": "Growth",
       "generated_at": "2026-11-02T18:23:32.643447"
+    },
+    {
+      "english": "Text me later, no rush, we’re friends",
+      "chinese": "等下给我发消息, 不急, 我们是朋友",
+      "category": "Friendship",
+      "generated_at": "2026-11-02T22:02:04.419744"
+    },
+    {
+      "english": "If you need me, call anytime, friend",
+      "chinese": "你要是需要我, 随时打电话, 朋友",
+      "category": "Friendship",
+      "generated_at": "2026-11-02T22:02:04.419757"
+    },
+    {
+      "english": "We’ll share snacks, today tastes better",
+      "chinese": "我们分着吃零食, 今天更好吃",
+      "category": "Friendship",
+      "generated_at": "2026-11-02T22:02:04.419759"
+    },
+    {
+      "english": "I’m here for you, listen, then relax",
+      "chinese": "我在这儿陪你, 听一听, 再放松",
+      "category": "Friendship",
+      "generated_at": "2026-11-02T22:02:04.419760"
+    },
+    {
+      "english": "Weather changes, our friendship stays steady",
+      "chinese": "天气变了, 我们的友谊不变",
+      "category": "Friendship",
+      "generated_at": "2026-11-02T22:02:04.419762"
     }
   ],
-  "last_updated": "2026-11-02T18:23:32.643449"
+  "last_updated": "2026-11-02T22:02:04.419764"
 }
