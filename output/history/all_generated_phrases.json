@@ -28419,7 +28419,42 @@
       "transliteration": "Bǎ nǐ de wèntí shuō chūlái, mànman ye xíng.",
       "category": "Courage",
       "generated_at": "2026-11-10T19:37:30.217091"
+    },
+    {
+      "english": "I’ll speak more softly, listen first.",
+      "chinese": "我先听, 说得慢一点。",
+      "transliteration": "Wǒ xiān tīng, shuō de màn yìdiǎn.",
+      "category": "Purpose",
+      "generated_at": "2026-11-10T20:42:54.371343"
+    },
+    {
+      "english": "Today, I’ll use fewer words, clearly.",
+      "chinese": "今天我少说点, 说清楚。",
+      "transliteration": "Jīntiān wǒ shǎo shuō diǎn, shuō qīngchu.",
+      "category": "Purpose",
+      "generated_at": "2026-11-10T20:42:54.371361"
+    },
+    {
+      "english": "I’ll ask for help, without panic.",
+      "chinese": "我需要帮助, 你可以吗？",
+      "transliteration": "Wǒ xūyào bāngzhù, nǐ kěyǐ ma?",
+      "category": "Purpose",
+      "generated_at": "2026-11-10T20:42:54.371362"
+    },
+    {
+      "english": "When I forget, I’ll point and smile.",
+      "chinese": "忘了就指一下, 然后笑。",
+      "transliteration": "Wàng le jiù zhǐ yíxià, ránhòu xiào.",
+      "category": "Purpose",
+      "generated_at": "2026-11-10T20:42:54.371363"
+    },
+    {
+      "english": "I’ll slow down, even if I hurry.",
+      "chinese": "我慢一点, 就算我着急。",
+      "transliteration": "Wǒ màn yìdiǎn, jiù suàn wǒ zháojí.",
+      "category": "Purpose",
+      "generated_at": "2026-11-10T20:42:54.371363"
     }
   ],
-  "last_updated": "2026-11-10T19:37:30.217093"
+  "last_updated": "2026-11-10T20:42:54.371365"
 }
