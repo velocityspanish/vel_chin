@@ -28601,7 +28601,42 @@
       "transliteration": "Yī jù huà, bù zháojí.",
       "category": "Confidence",
       "generated_at": "2026-11-11T14:53:20.489631"
+    },
+    {
+      "english": "My friend, we always find time.",
+      "chinese": "朋友，咱们总有时间",
+      "transliteration": "péngyou, zánmen zǒng yǒu shíjiān",
+      "category": "Friendship",
+      "generated_at": "2026-11-11T19:29:33.791742"
+    },
+    {
+      "english": "Your news makes my day brighter.",
+      "chinese": "你的消息让我的日子更亮",
+      "transliteration": "nǐ de xiāoxi ràng wǒ de rìzi gèng liàng",
+      "category": "Friendship",
+      "generated_at": "2026-11-11T19:29:33.791760"
+    },
+    {
+      "english": "Thanks for showing up, really.",
+      "chinese": "谢谢你来，真的",
+      "transliteration": "xièxie nǐ lái, zhēn de",
+      "category": "Friendship",
+      "generated_at": "2026-11-11T19:29:33.791762"
+    },
+    {
+      "english": "When I’m busy, you still care.",
+      "chinese": "我忙的时候，你还惦记着",
+      "transliteration": "wǒ máng de shíhou, nǐ hái diànjīng zhe",
+      "category": "Friendship",
+      "generated_at": "2026-11-11T19:29:33.791763"
+    },
+    {
+      "english": "I trust you, you know that.",
+      "chinese": "我信你，你懂的",
+      "transliteration": "wǒ xìn nǐ, nǐ dǒng de",
+      "category": "Friendship",
+      "generated_at": "2026-11-11T19:29:33.791765"
     }
   ],
-  "last_updated": "2026-11-11T14:53:20.489635"
+  "last_updated": "2026-11-11T19:29:33.791766"
 }
