@@ -28811,7 +28811,42 @@
       "transliteration": "Qing qing zai shi yi ci, ni zai xuexi.",
       "category": "Patience",
       "generated_at": "2026-11-12T19:48:38.296050"
+    },
+    {
+      "english": "Hope says, you can start small, today.",
+      "chinese": "希望说，你今天也可以从小开始。",
+      "transliteration": "Xiàngwàng shuō, nǐ jīntiān yě kěyǐ cóng xiǎo kāishǐ.",
+      "category": "Hope",
+      "generated_at": "2026-11-12T21:18:43.410664"
+    },
+    {
+      "english": "Keep breathing, then ask, 怎么呢？",
+      "chinese": "先慢慢呼吸，再问，怎么呢？",
+      "transliteration": "Xiān mànmàn hūxī, zài wèn, zěnme ne?",
+      "category": "Hope",
+      "generated_at": "2026-11-12T21:18:43.410680"
+    },
+    {
+      "english": "Hope encourages you, one more try.",
+      "chinese": "希望鼓励你，再试一次。",
+      "transliteration": "Xiàngwàng gǔlì nǐ, zài shì yí cì.",
+      "category": "Hope",
+      "generated_at": "2026-11-12T21:18:43.410682"
+    },
+    {
+      "english": "Smile first, then say, 我知道一点。",
+      "chinese": "先笑一笑，再说，我知道一点。",
+      "transliteration": "Xiān xiào yíxiào, zài shuō, wǒ zhīdào yídiǎn.",
+      "category": "Hope",
+      "generated_at": "2026-11-12T21:18:43.410683"
+    },
+    {
+      "english": "Hope, slow down, speak clearly, please.",
+      "chinese": "希望，慢一点，说清楚，拜托。",
+      "transliteration": "Xiàngwàng, màn yídiǎn, shuō qīngchu, bàituō.",
+      "category": "Hope",
+      "generated_at": "2026-11-12T21:18:43.410684"
     }
   ],
-  "last_updated": "2026-11-12T19:48:38.296051"
+  "last_updated": "2026-11-12T21:18:43.410686"
 }
