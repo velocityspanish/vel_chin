@@ -28706,7 +28706,42 @@
       "transliteration": "Wǒmen dōu yǒu bù duì de dìfang, wǒ yuánliàng nǐ.",
       "category": "Forgiveness",
       "generated_at": "2026-11-11T23:13:56.625338"
+    },
+    {
+      "english": "You can do it, relax first, go.",
+      "chinese": "你可以的，先放松，再开始。",
+      "transliteration": "nǐ kěyǐ de, xiān fàngsōng, zài kāishǐ.",
+      "category": "Strength",
+      "generated_at": "2026-11-12T01:47:24.938856"
+    },
+    {
+      "english": "It’s okay, breathe out, continue.",
+      "chinese": "没关系，吐口气，继续。",
+      "transliteration": "méi guānxi, tǔ kǒu qì, jìxù.",
+      "category": "Strength",
+      "generated_at": "2026-11-12T01:47:24.938868"
+    },
+    {
+      "english": "Don’t freeze, keep talking, even slowly.",
+      "chinese": "别僵住，继续说，也可以慢一点。",
+      "transliteration": "bié jiāngzhù, jìxù shuō, yě kěyǐ màn yìdiǎn.",
+      "category": "Strength",
+      "generated_at": "2026-11-12T01:47:24.938870"
+    },
+    {
+      "english": "Say it again, but with confidence.",
+      "chinese": "再说一遍，带点自信。",
+      "transliteration": "zài shuō yíbiàn, dài diǎn zìxìn.",
+      "category": "Strength",
+      "generated_at": "2026-11-12T01:47:24.938871"
+    },
+    {
+      "english": "Wrong is fine, learn, then try again.",
+      "chinese": "错了也没事，学一下，再来。",
+      "transliteration": "cuò le yě méi shì, xué yíxià, zài lái.",
+      "category": "Strength",
+      "generated_at": "2026-11-12T01:47:24.938872"
     }
   ],
-  "last_updated": "2026-11-11T23:13:56.625339"
+  "last_updated": "2026-11-12T01:47:24.938874"
 }
