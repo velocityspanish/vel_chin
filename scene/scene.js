@@ -231,6 +231,7 @@
   let currentPhrase = -1;
   let enSpans = [];
   let viTiles = [];
+  let viTileRanges = [];
   let enActive = -1;
   let viActive = -1;
   let stackHeights = { conn: 0, nat: 0, translit: 0, repeat: 0 };
@@ -241,15 +242,52 @@
     return el.offsetHeight + (parseFloat(cs.marginTop) || 0) + (parseFloat(cs.marginBottom) || 0);
   };
 
+  let WORD_SEGMENTER = null;
+  try {
+    if (typeof Intl !== 'undefined' && Intl.Segmenter) {
+      WORD_SEGMENTER = new Intl.Segmenter(undefined, { granularity: 'word' });
+    }
+  } catch (e) {
+    WORD_SEGMENTER = null;
+  }
+
+  const clusterCount = (text) => Array.from(String(text).replace(/\s+/g, '')).length;
+
+  // CJK scripts run words together, so group characters into word containers;
+  // punctuation stays with the word in front of it.
+  function wordUnits(text) {
+    const plain = String(text);
+    if (!T.language.char_tiles) {
+      return plain.split(/\s+/).filter(Boolean).map((w) => ({ text: w, start: 0, end: 0 }));
+    }
+    if (!WORD_SEGMENTER) {
+      return [{ text: plain.replace(/\s+/g, ''), start: 0, end: clusterCount(plain) }];
+    }
+    const units = [];
+    let cursor = 0;
+    for (const part of WORD_SEGMENTER.segment(plain)) {
+      const seg = part.segment;
+      if (!seg || !seg.trim()) continue;
+      const width = clusterCount(seg);
+      if (units.length && part.isWordLike === false) {
+        // Merged punctuation is timed with the word before it, so it adds no cluster index.
+        units[units.length - 1].text += seg;
+        continue;
+      }
+      units.push({ text: seg, start: cursor, end: cursor + width });
+      cursor += width;
+    }
+    if (!units.length) {
+      const clean = plain.replace(/\s+/g, '');
+      units.push({ text: clean, start: 0, end: clusterCount(clean) });
+    }
+    return units;
+  }
+
   function layoutTiles(text) {
     const box = $('natText');
-    const words = T.language.char_tiles
-      ? Array.from(String(text).replace(/\s+/g, '')).reduce((acc, ch) => {
-          if (/[\p{P}\p{S}]/u.test(ch) && acc.length) acc[acc.length - 1] += ch;
-          else acc.push(ch);
-          return acc;
-        }, [])
-      : String(text).split(/\s+/).filter(Boolean);
+    const units = wordUnits(text);
+    const words = units.map((u) => u.text);
     box.dir = T.language.rtl ? 'rtl' : 'ltr';
     box.classList.remove('lines');
     box.style.flexWrap = 'nowrap';
@@ -338,6 +376,7 @@
     }
 
     viTiles = Array.from(box.querySelectorAll('.tile'));
+    viTileRanges = units.map((u) => ({ start: u.start, end: u.end }));
   }
 
   function setPhrase(p) {
@@ -454,7 +493,11 @@
     enActive = setActive(enSpans, wordIndex(p.en_words, t), enActive);
     let viIdx = wordIndex(p.vi_words, t);
     if (viIdx < 0 && p.vi_words_repeat) viIdx = wordIndex(p.vi_words_repeat, t);
-    viActive = setActive(viTiles, viIdx, viActive);
+    let tileIdx = viIdx;
+    if (viIdx >= 0 && T.language.char_tiles) {
+      tileIdx = viTileRanges.findIndex((r) => viIdx >= r.start && viIdx < r.end);
+    }
+    viActive = setActive(viTiles, tileIdx, viActive);
 
     const enPlaying = t >= p.en_start - 0.05 && t <= p.en_end + 0.05;
     $('enLabel').classList.toggle('playing', enPlaying);

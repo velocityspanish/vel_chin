@@ -464,7 +464,7 @@ body {
   justify-content: center;
   gap: 6px;
 }
-.tile { display: inline-block; transform-origin: center bottom; }
+.tile { display: inline-block; transform-origin: center bottom; flex: 0 0 auto; }
 .tile-bg {
   display: inline-block;
   padding: .09em .22em .13em;
@@ -473,6 +473,7 @@ body {
   color: #3D8F00;
   font-weight: 900;
   line-height: 1.06;
+  white-space: nowrap;
   box-shadow: 0 .068em 0 rgba(0, 0, 0, .16);
 }
 .tile.on .tile-bg {
