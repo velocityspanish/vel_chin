@@ -28951,7 +28951,42 @@
       "transliteration": "Wǒ tīng bù dǒng, kěyǐ zài shuō yíbiàn ma?",
       "category": "Growth",
       "generated_at": "2026-11-13T03:51:14.565284"
+    },
+    {
+      "english": "Yay, I said that correctly!",
+      "chinese": "耶！我说对了！",
+      "transliteration": "ye! wo shuoduiliao!",
+      "category": "Joy",
+      "generated_at": "2026-11-13T20:46:57.461738"
+    },
+    {
+      "english": "Great job, your tones sound good.",
+      "chinese": "太棒了，你的声调不错。",
+      "transliteration": "ta bang le, ni de shengdiao bu cuo.",
+      "category": "Joy",
+      "generated_at": "2026-11-13T20:46:57.461750"
+    },
+    {
+      "english": "Good try, keep your smile going.",
+      "chinese": "好样的，继续保持微笑。",
+      "transliteration": "haoyang de, jixu baochi weixiao.",
+      "category": "Joy",
+      "generated_at": "2026-11-13T20:46:57.461752"
+    },
+    {
+      "english": "Nice! One sentence, then breathe.",
+      "chinese": "不错！说完一句，先呼吸。",
+      "transliteration": "bu cuo! shuo wan yiju, xian huxi.",
+      "category": "Joy",
+      "generated_at": "2026-11-13T20:46:57.461753"
+    },
+    {
+      "english": "Let’s go, practice a little more.",
+      "chinese": "来吧，再练一点儿。",
+      "transliteration": "la ba, zai lian yidianr.",
+      "category": "Joy",
+      "generated_at": "2026-11-13T20:46:57.461755"
     }
   ],
-  "last_updated": "2026-11-13T03:51:14.565287"
+  "last_updated": "2026-11-13T20:46:57.461756"
 }
