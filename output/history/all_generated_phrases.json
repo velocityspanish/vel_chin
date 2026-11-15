@@ -29021,7 +29021,42 @@
       "transliteration": "zhuā de hǎo, bǎ wěiyīn gǎi yíxià.",
       "category": "Balance",
       "generated_at": "2026-11-14T18:57:02.048867"
+    },
+    {
+      "english": "You dropped this, here you go.",
+      "chinese": "你掉了这个，给你吧。",
+      "transliteration": "Ni diào le zhège, gěi nǐ ba.",
+      "category": "Kindness",
+      "generated_at": "2026-11-15T19:33:08.586594"
+    },
+    {
+      "english": "Let me carry that for you.",
+      "chinese": "我帮你拿着吧。",
+      "transliteration": "Wǒ bāng nǐ názhe ba.",
+      "category": "Kindness",
+      "generated_at": "2026-11-15T19:33:08.586609"
+    },
+    {
+      "english": "Go ahead, I’ll wait my turn.",
+      "chinese": "你先来，我等一下。",
+      "transliteration": "Nǐ xiān lái, wǒ děng yíxià.",
+      "category": "Kindness",
+      "generated_at": "2026-11-15T19:33:08.586611"
+    },
+    {
+      "english": "It’s okay, we’ll figure it out.",
+      "chinese": "没关系，我们再想想。",
+      "transliteration": "Méi guānxi, wǒmen zài xiǎngxiang.",
+      "category": "Kindness",
+      "generated_at": "2026-11-15T19:33:08.586612"
+    },
+    {
+      "english": "Thanks for reminding me, really.",
+      "chinese": "谢谢你提醒我，太好了。",
+      "transliteration": "Xièxie nǐ tíxǐng wǒ, tài hǎo le.",
+      "category": "Kindness",
+      "generated_at": "2026-11-15T19:33:08.586614"
     }
   ],
-  "last_updated": "2026-11-14T18:57:02.048869"
+  "last_updated": "2026-11-15T19:33:08.586617"
 }
