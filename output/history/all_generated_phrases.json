@@ -29371,7 +29371,42 @@
       "transliteration": "mànmàn hūqì, jìxù qiánxíng",
       "category": "Mindfulness",
       "generated_at": "2026-11-24T23:23:37.149846"
+    },
+    {
+      "english": "Breathe, then say it clearly.",
+      "chinese": "呼气，然后说清楚。",
+      "transliteration": "Hu qi, ranhou shuo qingchu.",
+      "category": "Confidence",
+      "generated_at": "2026-11-25T22:56:54.787709"
+    },
+    {
+      "english": "I can fix it, smoothly.",
+      "chinese": "我可以顺一下就更好。",
+      "transliteration": "Wo keyi shun yi xia jiu geng hao.",
+      "category": "Confidence",
+      "generated_at": "2026-11-25T22:56:54.787724"
+    },
+    {
+      "english": "It’s okay, I’m still learning.",
+      "chinese": "没关系，我还在学。",
+      "transliteration": "Mei guanxi, wo hai zai xue.",
+      "category": "Confidence",
+      "generated_at": "2026-11-25T22:56:54.787726"
+    },
+    {
+      "english": "My turn, I’ll speak confidently.",
+      "chinese": "轮到我了，我要自信说。",
+      "transliteration": "Lun dao wo le, wo yao zixin shuo.",
+      "category": "Confidence",
+      "generated_at": "2026-11-25T22:56:54.787727"
+    },
+    {
+      "english": "No rush, I’ll get it.",
+      "chinese": "不着急，我会明白。",
+      "transliteration": "Bu zhao ji, wo hui mingbai.",
+      "category": "Confidence",
+      "generated_at": "2026-11-25T22:56:54.787728"
     }
   ],
-  "last_updated": "2026-11-24T23:23:37.149848"
+  "last_updated": "2026-11-25T22:56:54.787730"
 }
