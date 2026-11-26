@@ -29406,7 +29406,70 @@
       "transliteration": "Bu zhao ji, wo hui mingbai.",
       "category": "Confidence",
       "generated_at": "2026-11-25T22:56:54.787728"
+    },
+    {
+      "english": "I love this song, it’s great.",
+      "chinese": "我喜欢这首歌，太好听了。",
+      "transliteration": "Wǒ xǐhuān zhè shǒu gē, tài hǎotīng le.",
+      "category": "Music",
+      "generated_at": "2026-11-26T09:32:30.537331"
+    },
+    {
+      "english": "Turn it up a little, please.",
+      "chinese": "请把音量调大一点。",
+      "transliteration": "Qǐng bǎ yīnliàng tiáo dà yìdiǎn.",
+      "category": "Music",
+      "generated_at": "2026-11-26T09:32:30.537344"
+    },
+    {
+      "english": "This music makes me feel calm.",
+      "chinese": "这音乐让我很放松。",
+      "transliteration": "Zhè yīnyuè ràng wǒ hěn fàngsōng.",
+      "category": "Music",
+      "generated_at": "2026-11-26T09:32:30.537346"
+    },
+    {
+      "english": "You can speak slowly, it’s fine.",
+      "chinese": "你可以慢慢说，没关系。",
+      "transliteration": "Nǐ kěyǐ màn màn shuō, méi guānxi",
+      "category": "Strength",
+      "generated_at": "2026-11-26T09:41:54.654898"
+    },
+    {
+      "english": "Stand tall, breathe, then talk.",
+      "chinese": "抬起头，先呼吸再开口。",
+      "transliteration": "Tái qǐ tóu, xiān hū xī zài kāi kǒu",
+      "category": "Strength",
+      "generated_at": "2026-11-26T09:41:54.654910"
+    },
+    {
+      "english": "Take your time, keep your rhythm.",
+      "chinese": "慢一点也行，跟着节奏来。",
+      "transliteration": "Màn yī diǎn yě xíng, gēn zhe jié zòu lái",
+      "category": "Strength",
+      "generated_at": "2026-11-26T09:41:54.654912"
+    },
+    {
+      "english": "Say it differently, then see",
+      "chinese": "换个说法试试，再看看",
+      "transliteration": "Huàn gè shuō fǎ shì shì, zài kàn kàn",
+      "category": "Creativity",
+      "generated_at": "2026-11-26T09:48:48.007084"
+    },
+    {
+      "english": "Try a new ending, not perfect",
+      "chinese": "换个结尾试试，不用完美",
+      "transliteration": "Huàn gè jié wěi shì shì, bú yòng wán měi",
+      "category": "Creativity",
+      "generated_at": "2026-11-26T09:48:48.007101"
+    },
+    {
+      "english": "Pause, breathe, then continue naturally",
+      "chinese": "停一下，喘口气，再自然说下去",
+      "transliteration": "Tíng yí xià, chuǎn kǒu qì, zài zì rán shuō xià qù",
+      "category": "Creativity",
+      "generated_at": "2026-11-26T09:48:48.007102"
     }
   ],
-  "last_updated": "2026-11-25T22:56:54.787730"
+  "last_updated": "2026-11-26T09:48:48.007103"
 }

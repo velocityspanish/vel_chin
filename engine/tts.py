@@ -253,7 +253,30 @@ def _zh_tiles(text: str) -> list:
         else:
             words.append(tok)
         i += 1
-    return words
+    # A Chinese one-character word is still a word, but a row of one-character
+    # boxes reads like character tiles. Join leftover singles into neighbours.
+    out = []
+    i = 0
+    while i < len(words):
+        tok = words[i]
+        core = tok.rstrip("，。！？、；：,.!?;:")
+        is_single = len(core) == 1 and not _is_punct(core)
+        has_punct = tok != core
+        if is_single and has_punct and out and not _is_punct(out[-1][-1]):
+            out[-1] += tok
+            i += 1
+            continue
+        if is_single and not has_punct and i + 1 < len(words) and not _is_punct(words[i + 1]):
+            out.append(tok + words[i + 1])
+            i += 2
+            continue
+        if is_single and out and not _is_punct(out[-1][-1]):
+            out[-1] += tok
+            i += 1
+            continue
+        out.append(tok)
+        i += 1
+    return out
 
 
 def _ko_tiles(text: str) -> list:
