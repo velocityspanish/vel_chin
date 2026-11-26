@@ -29469,7 +29469,28 @@
       "transliteration": "Tíng yí xià, chuǎn kǒu qì, zài zì rán shuō xià qù",
       "category": "Creativity",
       "generated_at": "2026-11-26T09:48:48.007102"
+    },
+    {
+      "english": "What number is this?",
+      "chinese": "这个数是多少？",
+      "transliteration": "Zhège shù shì duō shǎo？",
+      "category": "Numbers",
+      "generated_at": "2026-11-26T19:28:21.512425"
+    },
+    {
+      "english": "I need two tickets, please.",
+      "chinese": "我想要两张票。",
+      "transliteration": "Wǒ xiǎng yào liǎng zhāng piào.",
+      "category": "Numbers",
+      "generated_at": "2026-11-26T19:28:21.512437"
+    },
+    {
+      "english": "Give me five more minutes.",
+      "chinese": "再给我五分钟。",
+      "transliteration": "Zài gěi wǒ wǔ fēnzhōng.",
+      "category": "Numbers",
+      "generated_at": "2026-11-26T19:28:21.512439"
     }
   ],
-  "last_updated": "2026-11-26T09:48:48.007103"
+  "last_updated": "2026-11-26T19:28:21.512441"
 }
