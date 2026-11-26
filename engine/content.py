@@ -4,6 +4,7 @@ from __future__ import annotations
 
 import json
 import random
+import re
 import time
 from datetime import datetime
 
@@ -18,6 +19,77 @@ RECENT_CATEGORIES_FILE = HISTORY_DIR / "recent_categories.json"
 PHRASE_KEY = config.LANGUAGE["history_key"]
 LANGUAGE_NAME = config.LANGUAGE["name"]
 NATIVE_NAME = config.LANGUAGE["native_name"]
+
+_SCRIPT_RANGES = (
+    ("\u3400", "\u4dbf"),  # CJK extension A
+    ("\u4e00", "\u9fff"),  # CJK unified ideographs
+)
+_VI_CHARS = set("ăâđêôơưĂÂĐÊÔƠƯáàảãạắằẳẵặấầẩẫậéèẻẽẹếềểễệíìỉĩịóòỏõọốồổỗộớờởỡợúùủũụứừửữựýỳỷỹỵ")
+
+
+def _has_script(text: str) -> bool:
+    return any(start <= ch <= end for ch in text for start, end in _SCRIPT_RANGES)
+
+
+def _valid_native(text: str) -> bool:
+    if config.LANGUAGE.get("code") not in ("ja", "zh", "ko"):
+        return True
+    if not _has_script(text):
+        return False
+    if any("\u3040" <= ch <= "\u30ff" for ch in text):
+        return False
+    return not any(ch in _VI_CHARS for ch in text)
+
+
+def _clean_translit(text: str) -> str:
+    """Tidy romaji/pinyin: capitalisation, punctuation spacing, split te-forms."""
+    text = text.strip().strip("[]")
+    if not text:
+        return text
+    text = re.sub(r"\b(\w+)tsu te\b", r"\1tte", text, flags=re.IGNORECASE)
+    text = re.sub(r"\b(\w*[aeiou]) i\b", r"\1i", text, flags=re.IGNORECASE)
+    text = re.sub(r"\s+([,.!?，。！？、；：])", r"\1", text)
+    text = re.sub(
+        r"(^|[.!?]\s+)([a-z])",
+        lambda match: match.group(1) + match.group(2).upper(),
+        text,
+    )
+    return text
+    text = re.sub(r"\b(\w+)tsu te\b", r"\1tte", text, flags=re.IGNORECASE)
+    text = re.sub(r"\b(\w*[aeiou]) i\b", r"\1i", text, flags=re.IGNORECASE)
+    text = re.sub(r"\s+([,.!?])", r"\1", text)
+    text = re.sub(
+        r"(^|[.!?]\s+)([a-z])",
+        lambda match: match.group(1) + match.group(2).upper(),
+        text,
+    )
+    return text
+
+
+
+def _fallback_translit(phrase: dict) -> dict:
+    out = dict(phrase)
+    code = config.LANGUAGE.get("code")
+    if out.get("transliteration"):
+        return out
+    native = out.get("native", "")
+    if code == "zh":
+        try:
+            from pypinyin import Style, lazy_pinyin
+
+            out["transliteration"] = _clean_translit(
+                " ".join(part for part in lazy_pinyin(native, style=Style.TONE, errors="default") if part)
+            )
+        except Exception:
+            out["transliteration"] = ""
+    elif code == "ko":
+        try:
+            from korean_romanizer.romanizer import Romanizer
+
+            out["transliteration"] = _clean_translit(Romanizer(native).romanize())
+        except Exception:
+            out["transliteration"] = ""
+    return out
 
 # ==== FALLBACK PHRASES START ====
 FALLBACK_PHRASES = [
@@ -213,11 +285,24 @@ def _normalize_phrase(item):
         return None
     if "/" in native or "|" in native:
         native = native.split("/")[0].split("|")[0].strip()
-    return {
+    if not _valid_native(native):
+        return None
+    if config.LANGUAGE.get("code") in ("ja", "zh", "ko") and not translit:
+        if config.LANGUAGE["code"] == "zh":
+            translit = _fallback_translit({"native": native, "transliteration": ""})["transliteration"]
+        elif config.LANGUAGE["code"] == "ko":
+            translit = _fallback_translit({"native": native, "transliteration": ""})["transliteration"]
+        if not translit:
+            return None
+    item_tiles = item.get("tiles")
+    out = {
         "english": english.replace("  ", " ").strip(),
         "native": native.strip(),
-        "transliteration": translit.strip().strip("[]"),
+        "transliteration": _clean_translit(translit),
     }
+    if isinstance(item_tiles, list) and item_tiles and all(isinstance(t, str) and t.strip() for t in item_tiles):
+        out["tiles"] = [t.strip() for t in item_tiles]
+    return out
 
 
 def _history_keys(history):
@@ -283,7 +368,7 @@ def generate_phrases(category_english: str, num_phrases: int = 5) -> list:
         fresh_fallback.append(p)
     if not fresh_fallback:
         raise RuntimeError("Phrase API unavailable and no unused fallback phrases left; refusing to reuse phrases")
-    chosen = fresh_fallback[:num_phrases]
+    chosen = [_fallback_translit(p) for p in fresh_fallback[:num_phrases]]
     if len(chosen) < num_phrases:
         print(f"[content] Only {len(chosen)} fresh fallback phrases; building a shorter lesson")
     add_phrases_to_history(chosen, category_english)
@@ -302,10 +387,12 @@ Rules:
 1. Keep every phrase short and natural (4-11 words in English).
 2. Use natural commas for TTS breathing pauses.
 3. Each phrase must be speakable in 2-4 seconds.
-4. Write clean {LANGUAGE_NAME} in {NATIVE_NAME} with correct accents and orthography. One translation only, no slashes.
-5. Transliteration is a friendly Roman-script pronunciation guide for English speakers (not IPA).
-6. Vary the sentence patterns and emotions. No duplicates.
-7. Phrases must feel like real everyday language, not textbook filler.
+4. Write natural Simplified Chinese in Chinese characters. One translation only, no slashes, no pinyin in the native field.
+5. The native field must contain Chinese characters and Chinese punctuation only. Never return Japanese kana, Korean Hangul, Vietnamese, or English in the native field.
+6. Transliteration is Hanyu Pinyin with tone marks, separated by spaces (for example: nǐ hǎo). Capitalize the first word.
+7. Vary the sentence patterns and emotions. No duplicates.
+8. Phrases must feel like real everyday language, not textbook filler.
+9. The English must be idiomatic and complete. Avoid filler endings and literal word-for-word translations.
 
 Return ONLY a JSON array:
 [{{"english": "...", "native": "...", "transliteration": "..."}}]"""
