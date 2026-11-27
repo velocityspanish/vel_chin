@@ -29490,7 +29490,28 @@
       "transliteration": "Zài gěi wǒ wǔ fēnzhōng.",
       "category": "Numbers",
       "generated_at": "2026-11-26T19:28:21.512439"
+    },
+    {
+      "english": "Where is the nearest subway station?",
+      "chinese": "最近的地铁站在哪里？",
+      "transliteration": "Zuì jìn de dì tiě zhàn zài nǎ lǐ",
+      "category": "Travel",
+      "generated_at": "2026-11-27T03:57:05.888532"
+    },
+    {
+      "english": "How much is this ticket, please?",
+      "chinese": "这张票多少钱？",
+      "transliteration": "Zhè zhāng piào duō shǎo qián",
+      "category": "Travel",
+      "generated_at": "2026-11-27T03:57:05.888546"
+    },
+    {
+      "english": "Could you show me the map?",
+      "chinese": "你能给我看地图吗？",
+      "transliteration": "Nǐ néng gěi wǒ kàn dì tú ma",
+      "category": "Travel",
+      "generated_at": "2026-11-27T03:57:05.888547"
     }
   ],
-  "last_updated": "2026-11-26T19:28:21.512441"
+  "last_updated": "2026-11-27T03:57:05.888549"
 }
