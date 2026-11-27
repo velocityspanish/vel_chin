@@ -29511,7 +29511,28 @@
       "transliteration": "Nǐ néng gěi wǒ kàn dì tú ma",
       "category": "Travel",
       "generated_at": "2026-11-27T03:57:05.888547"
+    },
+    {
+      "english": "Friends are there when I’m down.",
+      "chinese": "朋友在我难过时陪着我。",
+      "transliteration": "Péng yǒu zài wǒ nán guò shí péi zhe wǒ",
+      "category": "Friendship",
+      "generated_at": "2026-11-27T11:32:47.889369"
+    },
+    {
+      "english": "You listen first, then we talk.",
+      "chinese": "你先听我说，再一起聊。",
+      "transliteration": "Nǐ xiān tīng wǒ shuō, zài yì qǐ liáo",
+      "category": "Friendship",
+      "generated_at": "2026-11-27T11:32:47.889381"
+    },
+    {
+      "english": "Let’s keep our promises, always.",
+      "chinese": "我们要一直守信。",
+      "transliteration": "Wǒ men yào yì zhí shǒu xìn",
+      "category": "Friendship",
+      "generated_at": "2026-11-27T11:32:47.889383"
     }
   ],
-  "last_updated": "2026-11-27T03:57:05.888549"
+  "last_updated": "2026-11-27T11:32:47.889385"
 }
