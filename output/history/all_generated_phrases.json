@@ -29532,7 +29532,28 @@
       "transliteration": "Wǒ men yào yì zhí shǒu xìn",
       "category": "Friendship",
       "generated_at": "2026-11-27T11:32:47.889383"
+    },
+    {
+      "english": "You can do this, right now.",
+      "chinese": "你可以的，就现在。",
+      "transliteration": "Nǐ kě yǐ de, jiù xiàn zài",
+      "category": "Courage",
+      "generated_at": "2026-11-27T19:25:01.872100"
+    },
+    {
+      "english": "I’ll try, even if I’m unsure.",
+      "chinese": "我先试试，即使我不确定。",
+      "transliteration": "Wǒ xiān shì shì, jí shǐ wǒ bù què dìng",
+      "category": "Courage",
+      "generated_at": "2026-11-27T19:25:01.872111"
+    },
+    {
+      "english": "It’s okay to pause, then continue.",
+      "chinese": "可以停一下，再接着说。",
+      "transliteration": "Kě yǐ tíng yí xià, zài jiē zhe shuō",
+      "category": "Courage",
+      "generated_at": "2026-11-27T19:25:01.872113"
     }
   ],
-  "last_updated": "2026-11-27T11:32:47.889385"
+  "last_updated": "2026-11-27T19:25:01.872115"
 }
