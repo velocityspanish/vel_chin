@@ -29574,7 +29574,28 @@
       "transliteration": "Xiān jiǎn dān lái, yī jù yī jù.",
       "category": "Balance",
       "generated_at": "2026-11-28T03:43:47.062984"
+    },
+    {
+      "english": "Look at that cute cat, wow.",
+      "chinese": "看那只可爱的小猫，哇！",
+      "transliteration": "Kàn nà zhī kě'ài de xiǎo māo, wā!",
+      "category": "Animals",
+      "generated_at": "2026-11-28T11:01:40.500760"
+    },
+    {
+      "english": "The dog is barking outside, listen.",
+      "chinese": "外面狗在叫，听呀！",
+      "transliteration": "Wài mian gǒu zài jiào, tīng ya!",
+      "category": "Animals",
+      "generated_at": "2026-11-28T11:01:40.500773"
+    },
+    {
+      "english": "My rabbit is hopping around the room.",
+      "chinese": "我的兔子在屋里蹦来蹦去。",
+      "transliteration": "Wǒ de tùzi zài wū lǐ bèng lái bèng qù.",
+      "category": "Animals",
+      "generated_at": "2026-11-28T11:01:40.500775"
     }
   ],
-  "last_updated": "2026-11-28T03:43:47.062986"
+  "last_updated": "2026-11-28T11:01:40.500776"
 }
